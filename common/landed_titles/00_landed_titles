@@ -96,3 +96,10 @@ e_hellenic_empire = {
 	color =  { 0 42 110 }
   }
  
+    k_ionia = {
+	color =  { 42 174 110 }
+  }
+
+     k_crete = {
+	color =  { 182 192 199 }
+  }
