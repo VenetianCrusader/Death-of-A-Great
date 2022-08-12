@@ -88,6 +88,99 @@ e_hellenic_empire = {
 	color =  { 218 224 36 }
   }
   
+  d_sparta = { # Euboea
+		color =  { 199 95 114 }
+	  c_mistra = {
+			color =  { 156 73 2 }
+		  b_mistra = {
+				color =  { 156 73 2 }
+			province = 3736
+			}
+		}
+      c_sparta = {
+			color =  { 13 147 34 }
+		  b_sparta = {
+				color =  { 13 147 34 }
+			province = 3735 # the province id defined in map_data
+			}
+		}
+		
+         c_monemvasia = {
+			color =  { 56 83 279 }
+		  b_monemvasia = {
+				color =  { 56 83 279 }
+			province = 478 # the province id defined in map_data
+		}
+	}
+}
+
+ d_corinth = { # Euboea
+		color =  { 199 95 114 }
+	  c_argos = {
+			color =  { 156 73 2 }
+		  b_argos = {
+				color =  { 156 67 89 }
+			province = 3798
+			}
+		}
+      c_corinth = {
+			color =  { 13 147 34 }
+		  b_corinth = {
+				color =  { 13 147 34 }
+			province = 481 # the province id defined in map_data
+			}
+		}
+		
+         c_nikli = {
+			color =  { 56 83 279 }
+		  b_nikli = {
+				color =  { 56 67 90 }
+			province = 3732 # the province id defined in map_data
+		}
+	}
+	
+	c_damala = {
+			color =  { 45 37 99 }
+		  b_damala = {
+				color =  { 86 88 279 }
+			province = 3799 # the province id defined in map_data
+		}
+	}
+	
+d_achaia = { # Euboea
+		color =  { 456 78 21 }
+	  c_patras = {
+			color =  { 456 78 21 }
+		  b_patras = {
+				color =  { 156 67 89 }
+			province = 476
+			}
+		}
+      c_vostita = {
+			color =  { 145 55 65 }
+		  b_vostita = {
+				color =  { 145 55 65 }
+			province = 3801 # the province id defined in map_data
+			}
+		}
+		
+         c_andravia = {
+			color =  { 67 38 120 }
+		  b_andravia = {
+				color =  { 56 67 90 }
+			province = 3737 # the province id defined in map_data
+		}
+	}
+	
+	c_kalavrita = {
+			color =  { 45 37 99 }
+		  b_kalavryta = {
+				color =  { 86 88 279 }
+			province = 3738 # the province id defined in map_data
+		}
+	}
+
+} 
    k_epirus = {
 	color =  { 245 245 220 }
   }
