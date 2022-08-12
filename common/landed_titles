@@ -1,0 +1,58 @@
+# Greeks
+e_hellenic_empire = {
+	color = { 42 232 232 }
+  }
+ k_athens = {
+	color =  { 42 143 232 }
+  }
+ 
+ k_laconia = {
+	color =  { 218 224 36 }
+  }
+  
+   k_epirus = {
+	color =  { 245 245 220 }
+  }
+  
+     k_thessalia = {
+	color =  { 0 42 110 }
+  }
+ 
+ d_athens = {
+		color =  { 42 143 232 }
+	  c_athens = {
+			color =  { 42 143 232 }
+		  b_athens = {
+				color =  { 42 143 232 }
+			province = 482
+      }
+      c_thebes = {
+			color =  { 10 168 63 }
+		  b_thebes = {
+				color =  { 10 168 63 }
+			province = 3730 # the province id defined in map_data
+      }
+         c_megara = {
+			color =  { 123 10 68 }
+		  b_megara = {
+				color =  { 123 10 68 }
+			province = 3731 # the province id defined in map_data
+      }
+     }
+       d_boetia = { # Boetian League
+		color =  { 42 143 232 }
+	  c_athens = {
+			color =  { 42 143 232 }
+		  b_athens = {
+				color =  { 42 143 232 }
+			province = 482
+      c_thebes = {
+			color =  { 10 168 63 }
+		  b_thebes = {
+				color =  { 10 168 63 }
+			province = 3730 # the province id defined in map_data
+         c_thebes = {
+			color =  { 123 10 68 }
+		  b_thebes = {
+				color =  { 123 10 68 }
+			province = 3731 # the province id defined in map_data
