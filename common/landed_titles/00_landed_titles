@@ -926,6 +926,234 @@ e_thraco-illyria = {
 	color =  { 255 0 0 }
 	color2 = { 255 255 255 }
 	
+	d_croatia = {
+			color = { 115 40 52 }
+			color2 = { 255 255 255 }
+
+			capital = c_gacka # Senj
+
+			c_gacka = {
+				color = { 115 40 52 }
+				color2 = { 255 255 255 }
+
+				#capital = 2523 # Rijeka
+
+				b_senj = {
+					province = 464
+
+					color = { 115 40 52 }
+					color2 = { 255 255 255 }
+				}
+				b_brinje = {
+					province = 3540
+
+					color = { 115 40 52 }
+					color2 = { 255 255 255 }
+				}
+				b_rijeka = {
+					province = 2523
+
+					color = { 115 40 52 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_lika = {
+				color = { 95 25 40 }
+				color2 = { 255 255 255 }
+
+				#capital = 3543 # Kaseg
+
+				b_kaseg = {
+					province = 3543
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255 }
+				}
+				b_bag = {
+					province = 3542
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255 }
+				}
+				b_udbina = {
+					province = 3544
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255 }
+				}
+				b_dreznik  = {
+					province = 3541
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255}
+				}
+			}
+			c_cherso = {
+				color = { 115 35 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 2521 # Cres / Cherso
+
+				b_cres = {
+					province = 2521
+
+					color = { 115 35 85 }
+					color2 = { 255 255 255}
+				}
+				b_krk = {
+					province = 459
+
+					color = { 115 35 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_modrus = {
+				color = { 90 40 60 }
+				color2 = { 255 255 255 }
+
+				#capital = 3539 # Modrus
+
+				b_modrus = {
+					province = 3539
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255 }
+				}
+				b_okic = {
+					province = 3537
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255}
+				}
+				b_dubovac = {
+					province = 3536
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255}
+				}
+				b_topusko = {
+					province = 3538
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255}
+				}
+			}
+		}
+	d_dalmatia = {
+			color = { 162 53 53 }
+			color2 = { 255 255 255 }
+
+			capital = c_zadar # Zadar
+
+			c_zadar = {
+				color = { 162 53 53 }
+				color2 = { 255 255 255 }
+
+				#capital = 465 # Zadar
+
+				#italian = "Zara"
+				#greek = "Diadora"
+				#roman = "Diadora"
+
+				cultural_names = {
+					name_list_roman = cn_diadora
+					name_list_greek = cn_diadora
+					name_list_italian = cn_zara
+					name_list_cisalpine = cn_zara
+					name_list_sicilian = cn_zara
+					name_list_sardinian = cn_zara
+				}
+
+				b_zadar = {
+					province = 465
+
+					color = { 162 53 53 }
+					color2 = { 255 255 255 }
+				}
+				b_nin = {
+					province = 3545
+
+					color = { 162 53 53 }
+					color2 = { 255 255 255 }
+				}
+				b_biograd = {
+					province = 3547
+
+					color = { 162 53 53 }
+					color2 = { 255 255 255 }
+				}
+				b_obrovac = {
+					province = 3546
+
+					color = { 162 53 53 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_knin = {
+				color = { 168 76 44 }
+				color2 = { 255 255 255 }
+
+				#capital = 3548 # Knin
+
+				b_knin = {
+					province = 3548 # Knin
+
+					color = { 168 76 44 }
+					color2 = { 255 255 255 }
+				}
+				b_bribir = {
+					province = 3549
+
+					color = { 168 76 44 }
+					color2 = { 255 255 255 }
+				}
+				b_sibenik = {
+					province = 3550
+
+					color = { 168 76 44 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_cetina = {
+				color = { 150 80 45 }
+				color2 = { 255 255 255 }
+
+				#capital = 3551 # Sinj
+
+				#italian = "Spalato"
+				#greek = "Spalathos"
+				#roman = "Spalato"
+
+				cultural_names = {
+					name_list_roman = cn_spalato
+					name_list_italian = cn_spalato
+					name_list_cisalpine = cn_spalato
+					name_list_sicilian = cn_spalato
+					name_list_sardinian = cn_spalato
+					name_list_greek = cn_spalathos
+				}
+
+				b_sinjcroat = {
+					province = 3551
+
+					color = { 150 80 45 }
+					color2 = { 255 255 255 }
+				}
+				b_split = {
+					province = 467
+
+					color = { 150 80 45 }
+					color2 = { 255 255 255 }
+				}
+				b_solin = {
+					province = 3552
+
+					color = { 150 80 45 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	
 	d_slavonia = {
 			color = { 130 30 60 }
 			color2 = { 255 255 255 }
