@@ -1,4 +1,4 @@
-# Greeks
+########## Greece ##########
 e_hellenic_empire = {
 	color = { 42 232 232 }
 	color2 = { 255 255 255 }
@@ -802,3 +802,2825 @@ d_achaia = { # Euboea
 			}
 		}
 	}
+
+########## BALKANS ##########
+
+e_thraco-illyria = {
+	color = { 42 232 232 }
+	color2 = { 255 255 255 }
+  
+ k_macedon = {
+	color =  { 19 16 296 }
+	color2 = { 255 255 255 }
+	
+	d_macedon = {
+			color = { 189 19 130 }
+			color2 = { 255 255 255 }
+
+			capital = c_thessalonika # Thessaloniki
+
+			c_thessalonika = {
+				color = { 189 19 130 }
+				color2 = { 255 255 255 }
+
+				#capital = 490 # Thessaloniki
+
+				b_thessaloniki = {
+					province = 490
+
+					color = { 189 19 130 }
+					color2 = { 255 255 255 }
+				}
+				b_gynaikokastron = {
+					province = 3778
+
+					color = { 189 19 130 }
+					color2 = { 255 255 255 }
+				}
+				b_langades = {
+					province = 3779
+
+					color = { 189 19 130 }
+					color2 = { 255 255 255 }
+				}
+				b_mavrouda = {
+					province = 3780
+
+					color = { 189 19 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_chalkidike = {
+				color = { 165 30 170 }
+				color2 = { 255 255 255 }
+
+				#capital = 491 # Polygyros
+
+				b_polygyros= {
+					province = 491
+
+					color = { 165 30 170 }
+					color2 = { 255 255 255 }
+				}
+				b_rendina = {
+					province = 3775
+
+					color = { 165 30 170 }
+					color2 = { 255 255 255 }
+				}
+				b_kassandreia = {
+					province = 3777
+
+					color = { 165 30 170 }
+					color2 = { 255 255 255 }
+				}
+				b_ierrisos = {
+					province = 3776
+
+					color = { 165 30 170 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_veria = {
+				color = { 220 50 170 }
+				color2 = { 255 255 255 }
+
+				#capital = 3786 # Veria
+
+				b_veria = {
+					province = 3784
+
+					color = { 220 50 170 }
+					color2 = { 255 255 255 }
+				}
+				b_maglen = {
+					province = 3781
+
+					color = { 220 50 170 }
+					color2 = { 255 255 255 }
+				}
+				b_sthlanitza = {
+					province = 3782
+
+					color = { 220 50 170 }
+					color2 = { 255 255 255 }
+				}
+				b_voden = {
+					province = 3783
+
+					color = { 220 50 170 }
+					color2 = { 255 255 255 }
+				}
+				b_kalyvia = {
+					province = 3785
+
+					color = { 220 50 170 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	 k_illyria = {
+	color =  { 255 0 0 }
+	color2 = { 255 255 255 }
+	
+	d_slavonia = {
+			color = { 130 30 60 }
+			color2 = { 255 255 255 }
+
+			#capital = 461 # Zagreb
+
+			cultural_names = {
+				name_list_roman = cn_pannonia
+				name_list_greek = cn_pannonia
+			}
+
+			c_zagreb = {
+				color = { 130 30 60 }
+				color2 = { 255 255 255 }
+
+				#capital = 461 # Zagreb
+
+				cultural_names = {
+					name_list_roman = cn_andautonia
+					name_list_greek = cn_andautonia
+				}
+
+				b_zagreb = {
+					province = 461
+
+					color = { 130 30 60 }
+					color2 = { 255 255 255 }
+				}
+				b_cazma = {
+					province = 3533
+
+					color = { 130 30 60 }
+					color2 = { 255 255 255 }
+				}
+				b_samobor = {
+					province = 3534
+
+					color = { 130 30 60 }
+					color2 = { 255 255 255 }
+				}
+				b_sisak = {
+					province = 3535
+
+					color = { 130 30 60 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zagorje = {
+				color = { 160 20 50 }
+				color2 = { 255 255 255 }
+
+				#capital = 458 # Krapina
+
+				b_krapina = {
+					province = 458 # Krapina
+
+					color = { 160 20 50 }
+					color2 = { 255 255 255 }
+				}
+				b_garestin = { # Original name of Varazdin
+					province = 460
+
+					color = { 160 20 50 }
+					color2 = { 255 255 255 }
+				}
+				b_krizevci = {
+					province = 462
+
+					color = { 160 20 50 }
+					color2 = { 255 255 255 }
+				}
+				b_koprivnica = {
+					province = 3531
+
+					color = { 160 20 50 }
+					color2 = { 255 255 255 }
+				}
+				b_verevce = {
+					province = 3532
+
+					color = { 160 20 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_pozega = {
+				color = { 120 30 45 }
+				color2 = { 255 255 255 }
+
+				#capital = 3529 # Pozega
+
+				b_pozega = {
+					province = 3529
+
+					color = { 120 30 45 }
+					color2 = { 255 255 255 }
+				}
+				b_kutina = {
+					province = 3528
+
+					color = { 120 30 45 }
+					color2 = { 255 255 255 }
+				}
+				b_brod = {
+					province = 3530
+
+					color = { 120 30 45 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_vukovar = {
+				color = { 190 60 95 }
+				color2 = { 255 255 255 }
+
+				b_vakovo = {
+					province = 3610
+
+					color = { 190 60 95 }
+					color2 = { 255 255 255 }
+				}
+				b_osijek = {
+					province = 3609
+
+					color = { 190 60 95 }
+					color2 = { 255 255 255 }
+				}
+				b_orahovica = {
+					province = 3608
+
+					color = { 190 60 95 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_bosna = {	#AKA Upper Bosnia
+			color = { 194 115 115 }
+			color2 = { 255 255 255 }
+
+			capital = c_rama # Visoki
+
+			c_rama = {
+				color = { 194 105 125 }
+				color2 = { 255 255 255 }
+
+				#capital = 3527 # Visoki
+
+				b_visoki = {
+					province = 3527
+
+					color = { 194 115 115 }
+					color2 = { 255 255 255 }
+				}
+				b_prozor = {
+					province = 504
+
+					color = { 194 115 115 }
+					color2 = { 255 255 255 }
+				}
+				b_vranduk = {
+					province = 3524
+
+					color = { 194 115 115 }
+					color2 = { 255 255 255 }
+				}
+				b_bobovac = {
+					province = 3525
+
+					color = { 194 115 115 }
+					color2 = { 255 255 255 }
+				}
+				b_travnik = {
+					province = 3526
+
+					color = { 194 115 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_donjikraji = {
+				color = { 175 90 115 }
+				color2 = { 255 255 255 }
+
+				#capital = 3507 # Jajce
+
+				b_jajce = {
+					province = 3507
+
+					color = { 175 90 115 }
+					color2 = { 255 255 255 }
+				}
+				b_kljucnasani = {
+					province = 3504
+
+					color = { 175 90 115 }
+					color2 = { 255 255 255 }
+				}
+				b_greben = {
+					province = 3505
+
+					color = { 175 90 115 }
+					color2 = { 255 255 255 }
+				}
+				b_kotorvaros = {
+					province = 3506
+
+					color = { 175 90 115 }
+					color2 = { 255 255 255 }
+				}
+				b_sokol = {
+					province = 3508
+
+					color = { 175 90 115 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_vhrbosna = {
+				color = { 150 105 125 }
+				color2 = { 255 255 255 }
+
+				#capital = 3567 # Vhrbosna - Modern Sarajevo. Probably.
+
+				b_vhrbosna = {
+					province = 3567
+
+					color = { 150 105 125 }
+					color2 = { 255 255 255 }
+				}
+				b_olovo= {
+					province = 3564
+
+					color = { 150 105 125 }
+					color2 = { 255 255 255 }
+				}
+				b_kuclat = {
+					province = 3565
+
+					color = { 150 105 125 }
+					color2 = { 255 255 255 }
+				}
+				b_srebrenica = {
+					province = 3566
+
+					color = { 150 105 125 }
+					color2 = { 255 255 255 }
+				}
+				b_rogatica = {
+					province = 3568
+
+					color = { 150 105 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_pset = {
+				color = { 135 55 65 }
+				color2 = { 255 255 255 }
+
+				#capital = 3522 # Bihac
+
+				b_bihac = {
+					province = 3522
+
+					color = { 135 55 65 }
+					color2 = { 255 255 255}
+				}
+				b_krupa = {
+					province = 3521
+
+					color = { 135 55 65 }
+					color2 = { 255 255 255}
+				}
+				b_pset = {
+					province = 3523
+
+					color = { 135 55 65 }
+					color2 = { 255 255 255}
+				}
+			}
+		}
+
+		d_lower_bosna = {
+			color = { 180 85 120 }
+			color2 = { 255 255 255 }
+
+			capital = c_soli # Soli
+
+			c_soli = {
+				color = { 170 80 125 }
+				color2 = { 255 255 255 }
+
+				#capital = 3510 # Soli - Modern Tuzla
+
+				cultural_names = {
+					name_list_roman = cn_salines
+					name_list_greek = cn_salines
+					name_list_hungarian = cn_so
+					name_list_turkish = cn_tuzla	#A bit out of period, but you never know!
+				}
+
+				b_soli = {
+					province = 3510
+
+					color = { 170 80 125 }
+					color2 = { 255 255 255 }
+				}
+				b_bijeljina = {
+					province = 3509
+
+					color = { 170 80 125 }
+					color2 = { 255 255 255 }
+				}
+				b_zvornik = {
+					province = 3511
+
+					color = { 170 80 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_usora = {
+				color = { 170 70 100 }
+				color2 = { 255 255 255 }
+
+				#capital = 3513 # Srebrenik
+
+				b_srebrenik = {
+					province = 3513
+
+					color = { 170 70 100 }
+					color2 = { 255 255 255 }
+				}
+				b_usora = {	#Actually Doboj: Usora is a river.
+					province = 463
+
+					color = { 170 70 100 }
+					color2 = { 255 255 255 }
+				}
+				b_maglaj = {
+					province = 3514
+
+					color = { 170 70 100 }
+					color2 = { 255 255 255 }
+				}
+
+				b_tolisa = {
+					province = 3512
+
+					color = { 170 70 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_vodica = {	#Actually Krajina.
+				color = { 130 10 20 }
+				color2 = { 255 255 255 }
+
+				#capital = 3519 # Vodicevo
+
+				b_vodicevo = {
+					province = 3519
+
+					color = { 130 10 20 }
+					color2 = { 255 255 255 }
+				}
+				b_dubica = {
+					province = 3518
+
+					color = { 130 10 20 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_vrbas = {
+				color = { 125 20 90 }
+				color2 = { 255 255 255 }
+
+				#capital = 3516 # Banja Luka (though the name is anachronistic, there were various settlements on or near the site)
+
+				b_banjaluka = {
+					province = 3516
+
+					color = { 125 20 90 }
+					color2 = { 255 255 255 }
+				}
+				b_gradiska = {
+					province = 3515
+
+					color = { 125 20 90 }
+					color2 = { 255 255 255 }
+				}
+				b_glaz = {
+					province = 3517
+
+					color = { 125 20 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_usora = {	#Actually Zachlumia
+			color = { 170 70 100 }
+			color2 = { 255 255 255 }
+
+			capital = c_zachlumia # Blagaj
+
+			cultural_names = {
+				name_list_serbian = cn_zahumlje
+				name_list_croatian = cn_zahumlje
+				name_list_bosnian = cn_zahumlje
+			}
+
+			c_zachlumia = {
+				color = { 210 80 90 }
+				color2 = { 255 255 255 }
+
+				#capital = 466 # Blagaj
+
+				cultural_names = {
+					name_list_serbian = cn_zahumlje
+					name_list_croatian = cn_zahumlje
+					name_list_bosnian = cn_zahumlje
+				}
+
+				b_blagaj = {
+					province = 466
+
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_nevesinje = {
+					province = 3561
+
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_drijeva = {
+					province = 3562
+
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_kljuc = {
+					province = 3563
+
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+				b_mostar = {
+					province = 3558
+
+					color = { 210 80 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zelengora = {
+				color = { 195 70 125 }
+				color2= { 255 255 255 }
+
+				b_gacko = {
+					province = 3560
+
+					color = { 195 70 125 }
+					color2 = { 255 255 255 }
+				}
+				b_konjic = {
+					province = 3557
+
+					color = { 195 70 125 }
+					color2 = { 255 255 255 }
+				}
+				b_obalj = {
+					province = 3559
+
+					color = { 195 70 125 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zavrsje = {
+				color = { 220 130 100 }
+				color2 = { 255 255 255 }
+
+				#capital = 3501 # Hlivno
+
+				cultural_names = {
+					name_list_roman = cn_emotha
+					name_list_greek = cn_emotha
+				}
+				#roman = "Emotha"
+				#greek = "Emotha"
+
+				b_hlivno = {
+					province = 3501
+
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+				b_glamoc = {
+					province = 3500
+
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+				b_duvno = {
+					province = 3502
+
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+				b_imotski = {
+					province = 3503
+
+					color = { 220 130 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_pagania = {
+				color = { 180 110 50 }
+				color2 = { 255 255 255 }
+
+				#capital = 3555 # Mokro
+
+				b_mokro = {
+					province = 3555
+
+					color = { 180 110 50 }
+					color2 = { 255 255 255 }
+				}
+				b_omis = {
+					province = 3553
+
+					color = { 180 110 50 }
+					color2 = { 255 255 255 }
+				}
+				b_hvar = {
+					province = 3556
+
+					color = { 180 110 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_ragusa = {
+			color = { 170 11 30 }
+			color2 = { 255 255 255 }
+
+			capital = c_ragusa # Ragusa / Dubrovnik
+
+			c_ragusa = {
+				color = { 170 11 30 }
+				color2 = { 255 255 255 }
+
+				#capital = 468 # Ragusa / Dubrovnik
+
+				b_ragusa = {
+					province = 468
+
+					color = { 170 11 30 }
+					color2 = { 255 255 255 }
+				}
+				b_ston = {
+					province = 3569
+
+					color = { 170 11 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_croatia = {
+			color = { 115 40 52 }
+			color2 = { 255 255 255 }
+
+			capital = c_gacka # Senj
+
+			c_gacka = {
+				color = { 115 40 52 }
+				color2 = { 255 255 255 }
+
+				#capital = 2523 # Rijeka
+
+				b_senj = {
+					province = 464
+
+					color = { 115 40 52 }
+					color2 = { 255 255 255 }
+				}
+				b_brinje = {
+					province = 3540
+
+					color = { 115 40 52 }
+					color2 = { 255 255 255 }
+				}
+				b_rijeka = {
+					province = 2523
+
+					color = { 115 40 52 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_lika = {
+				color = { 95 25 40 }
+				color2 = { 255 255 255 }
+
+				#capital = 3543 # Kaseg
+
+				b_kaseg = {
+					province = 3543
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255 }
+				}
+				b_bag = {
+					province = 3542
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255 }
+				}
+				b_udbina = {
+					province = 3544
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255 }
+				}
+				b_dreznik  = {
+					province = 3541
+
+					color = { 95 25 40 }
+					color2 = { 255 255 255}
+				}
+			}
+			c_cherso = {
+				color = { 115 35 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 2521 # Cres / Cherso
+
+				b_cres = {
+					province = 2521
+
+					color = { 115 35 85 }
+					color2 = { 255 255 255}
+				}
+				b_krk = {
+					province = 459
+
+					color = { 115 35 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_modrus = {
+				color = { 90 40 60 }
+				color2 = { 255 255 255 }
+
+				#capital = 3539 # Modrus
+
+				b_modrus = {
+					province = 3539
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255 }
+				}
+				b_okic = {
+					province = 3537
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255}
+				}
+				b_dubovac = {
+					province = 3536
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255}
+				}
+				b_topusko = {
+					province = 3538
+
+					color = { 90 40 60 }
+					color2 = { 255 255 255}
+				}
+			}
+		}
+		
+		d_rashka = {
+			color = { 103 88 51 }
+			color2 = { 255 255 255 }
+
+			capital = c_rashka # Novo Trgovište
+
+			c_rashka = {
+				color = { 103 88 51 }
+				color2 = { 255 255 255 }
+
+				b_novotrgoviste = {
+					province = 502
+
+					color = { 103 88 51 }
+					color2 = { 255 255 255 }
+				}
+				b_budlimlje = {
+					province = 3592
+
+					color = { 103 88 51 }
+					color2 = { 255 255 255 }
+				}
+				b_zica = {
+					province = 3588
+
+					color = { 103 88 51 }
+					color2 = { 255 255 255 }
+				}
+				b_gradac = {
+					province = 3587
+
+					color = { 103 88 51 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_zlatibor = {
+				color = { 70 50 40 }
+				color2 = { 255 255 255 }
+
+				b_sjenica = {
+					province = 3591
+
+					color = { 70 50 40 }
+					color2 = { 255 255 255 }
+				}
+				b_arilje = {
+					province = 3589
+
+					color = { 70 50 40 }
+					color2 = { 255 255 255 }
+				}
+				b_rujno = {
+					province = 3590
+
+					color = { 70 50 40 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_sumadija = {
+				color = { 60 65 40 }
+				color2 = { 255 255 255 }
+
+				#capital = 3598 # Kruševac
+
+				b_krusevac = {
+					province = 3598
+
+					color = { 60 65 40 }
+					color2 = { 255 255 255 }
+				}
+				b_koznik = {
+					province = 3599
+
+					color = { 60 65 40 }
+					color2 = { 255 255 255 }
+				}
+				b_prokuplje = {
+					province = 3600
+
+					color = { 60 65 40 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_podrinje = {
+				color = { 105 100 30 }
+				color2 = { 255 255 255 }
+
+				#capital = 3583 # Hotca
+
+				b_hotca = {
+					province = 3583
+
+					color = { 105 100 30 }
+					color2 = { 255 255 255 }
+				}
+				b_prijepolje = {
+					province = 3584
+
+					color = { 105 100 30 }
+					color2 = { 255 255 255 }
+				}
+				b_breznica = {
+					province = 3585
+
+					color = { 105 100 30 }
+					color2 = { 255 255 255 }
+				}
+				b_brskovo = {
+					province = 3586
+
+					color = { 105 100 30 }
+					color2 = { 255 255 255 }
+				}
+				b_visegrad = {
+					province = 3581
+
+					color = { 105 100 30 }
+					color2 = { 255 255 255 }
+				}
+				b_gorazde = {
+					province = 3582
+
+					color = { 105 100 30 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hvosno = {
+				color = { 85 105 70 }
+				color2 = { 255 255 255 }
+
+				#capital = 3596 # Priština
+
+				b_pristina = {
+					province = 3596
+
+					color = { 85 105 70 }
+					color2 = { 255 255 255 }
+				}
+				b_prizren = {
+					province = 3597
+
+					color = { 85 105 70 }
+					color2 = { 255 255 255 }
+				}
+				b_pec = {
+					province = 3595
+
+					color = { 85 105 70 }
+					color2 = { 255 255 255 }
+				}
+				b_zvecan = {
+					province = 3594
+
+					color = { 85 105 70 }
+					color2 = { 255 255 255 }
+				}
+				b_podujevo = {
+					province = 3593
+
+					color = { 85 105 70 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_macva = {
+			color = { 168 135 57 }
+			color2 = { 255 255 255 }
+
+			#capital = 3604 # Macva
+
+			c_macva = {
+				color = { 168 135 57 }
+				color2 = { 255 255 255 }
+
+				#capital = 3604 # Macva
+
+				b_macva = {
+					province = 3604
+
+					color = { 168 135 57 }
+					color2 = { 255 255 255 }
+				}
+				b_debrc = {
+					province = 3605
+
+					color = { 168 135 57 }
+					color2 = { 255 255 255 }
+				}
+				b_krupanj = {
+					province = 3606
+
+					color = { 168 135 57 }
+					color2 = { 255 255 255 }
+				}
+				b_uzice = {
+					province = 3607
+
+					color = { 168 135 57 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_beograd = {
+				color = { 128 115 37 }
+				color2 = { 255 255 255 }
+
+				#capital = 505 # Beograd / Belgrade
+
+				b_beograd = {
+					province = 505
+
+					color = { 128 115 37 }
+					color2 = { 255 255 255 }
+				}
+				b_smederevo = {
+					province = 3601
+
+					color = { 128 115 37 }
+					color2 = { 255 255 255 }
+				}
+				b_rudnik = {
+					province = 3602
+
+					color = { 128 115 37 }
+					color2 = { 255 255 255 }
+				}
+				b_kragujevac = {
+					province = 3603
+
+					color = { 128 115 37 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_duklja = {
+			color = { 129 94 13 }
+			color2 = { 255 255 255 }
+
+			#capital = 469 # Ribnica / Podgorica
+
+			c_duklja = {
+				color = { 129 94 13 }
+				color2 = { 255 255 255 }
+
+				#capital = 469 # Ribnica / Podgorica
+
+				b_ribnicapodgorica = {
+					province = 469
+
+					color = { 129 94 13 }
+					color2 = { 255 255 255 }
+				}
+				b_plav = {
+					province = 503
+
+					color = { 129 94 13 }
+					color2 = { 255 255 255 }
+				}
+				b_drivast = {
+					province = 3578
+
+					color = { 129 94 13 }
+					color2 = { 255 255 255 }
+				}
+				b_danj = {
+					province = 3579
+
+					color = { 129 94 13 }
+					color2 = { 255 255 255 }
+				}
+				b_skadar = {
+					province = 3580
+
+					color = { 129 94 13 }
+					color2 = { 255 255 255 }
+				}
+				b_moraca = {
+					province = 3577
+
+					color = { 129 94 13 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_pomorje = {
+				color = { 155 105 5 }
+				color2 = { 255 255 255 }
+
+				#capital = 3575 # Bar / Antivari
+
+				b_antivari = {
+					province = 3575
+
+					color = { 155 105 5 }
+					color2 = { 255 255 255 }
+				}
+				b_ulcinj = {
+					province = 3576
+
+					color = { 155 105 5 }
+					color2 = { 255 255 255 }
+				}
+				b_cattaro = { # Kotor
+					province = 3574
+
+					color = { 155 105 5 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_travunia = { # Travunia
+				color = { 140 90 35 }
+				color2 = { 255 255 255 }
+
+				#capital = 3572 # Trebinje
+
+				b_trebinje = {
+					province = 3572
+
+					color = { 140 90 35 }
+					color2 = { 255 255 255 }
+				}
+				b_onogost = {
+					province = 3571
+
+					color = { 140 90 35 }
+					color2 = { 255 255 255 }
+				}
+				b_risan = {
+					province = 3573
+
+					color = { 140 90 35 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_dyrrachion = {
+			color = { 137 27 99 }
+			color2 = { 255 255 255 }
+
+			capital = c_dyrrachion # Dyrrachion
+
+			c_dyrrachion = {
+				color = { 137 27 99 }
+				color2 = { 255 255 255 }
+
+				#capital = 470 # Dyrrachion
+
+				b_dyracchion = {
+					province = 470
+
+					color = { 137 27 99 }
+					color2 = { 255 255 255 }
+				}
+				b_savra = {
+					province = 3717
+
+					color = { 137 27 99 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_arbanon = {
+				color = { 140 65 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 3720 # Kruje
+
+				b_kruje = {
+					province = 3720
+
+					color = { 140 65 85 }
+					color2 = { 255 255 255 }
+				}
+				b_mat = {
+					province = 3718
+
+					color = { 140 65 85 }
+					color2 = { 255 255 255 }
+				}
+				b_lezhe = {
+					province = 3719
+
+					color = { 140 65 85 }
+					color2 = { 255 255 255 }
+				}
+				b_hiskampis = {
+					province = 3721
+
+					color = { 140 65 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_debar = {
+				color = { 130 40 60 }
+				color2 = { 255 255 255 }
+
+				#capital = 3724 # Debar
+
+				b_debar = {
+					province = 3724
+
+					color = { 130 40 60 }
+					color2 = { 255 255 255 }
+				}
+				b_peshkopi = {
+					province = 3723
+
+					color = { 130 40 60 }
+					color2 = { 255 255 255 }
+				}
+				b_kukes = {
+					province = 3722
+
+					color = { 130 40 60 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_antipatreia = { # Albanian Toskeria
+				color = { 140 70 140 }
+				color2 = { 255 255 255 }
+
+				#capital = 3713 # Berat / Antipatreia
+
+				b_antipatreia = { # Berat
+					province = 3713
+
+					color = { 140 70 140 }
+					color2 = { 255 255 255 }
+				}
+				b_skrapar = { # Castle opposite Corovode on the Osum river
+					province = 3714
+
+					color = { 140 70 140 }
+					color2 = { 255 255 255 }
+				}
+				b_argyrokastron = { # Gjirokaster
+					province = 3715
+
+					color = { 140 70 140 }
+					color2 = { 255 255 255 }
+				}
+				b_kelycyre = { # Klisura / Kleisourai
+					province = 3716
+
+					color = { 140 70 140 }
+					color2 = { 255 255 255 }
+				}
+				b_valamara = {
+					province = 3520
+
+					color = { 140 70 140 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_avlonas = {
+				color = { 125 15 135 }
+				color2 = { 255 255 255 }
+
+				#capital = 3711 # Avlonas
+
+				b_avlonas = {
+					province = 3711
+
+					color = { 125 15 135 }
+					color2 = { 255 255 255 }
+				}
+				b_himara = {
+					province = 3712
+
+					color = { 125 15 135 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_dacia = {
+	color =  { 0 184 3 }
+	color2 = { 255 255 255 }
+	
+	d_transylvania = {
+			color = { 212 112 63 }
+			color2 = { 255 255 255 }
+
+			capital = c_feher # Fehervar
+
+			c_feher = {
+				color = { 212 112 63 }
+				color2 = { 255 255 255 }
+
+				b_feher = {
+					province = 519
+
+					color = { 212 112 63 }
+					color2 = { 255 255 255 }
+				}
+				b_kukullovar = {
+					province = 3935
+
+					color = { 212 112 63 }
+					color2 = { 255 255 255 }
+				}
+				b_abrudbanya = {
+					province = 3936
+
+					color = { 212 112 63 }
+					color2 = { 255 255 255 }
+				}
+				b_nagyszeben = {
+					province = 3937
+
+					color = { 212 112 63 }
+					color2 = { 255 255 255 }
+				}
+				b_alvinc = {
+					province = 3938
+
+					color = { 212 112 63 }
+					color2 = { 255 255 255 }
+				}
+				b_szaszkezd = {
+					province = 3939
+
+					color = { 212 112 63 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_szekelyfold = {
+				color = { 200 130 50 }
+				color2 = { 255 255 255 }
+
+				b_szekelyudvarhely = {
+					province = 540
+
+					color = { 200 130 50 }
+					color2 = { 255 255 255 }
+				}
+				b_marosvasarhely = {
+					province = 3929
+
+					color = { 200 130 50 }
+					color2 = { 255 255 255 }
+				}
+				b_csikszereda = {
+					province = 3930
+
+					color = { 200 130 50 }
+					color2 = { 255 255 255 }
+				}
+				b_gyergyoszentmiklos = {
+					province = 3946
+
+					color = { 200 130 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_barcasag = {
+				color = { 180 105 60 }
+				color2 = { 255 255 255 }
+
+				b_brasso = {
+					province = 3942
+
+					color = { 180 105 60 }
+					color2 = { 255 255 255 }
+				}
+				b_balvanyos = {
+					province = 3943
+
+					color = { 180 105 60 }
+					color2 = { 255 255 255 }
+				}
+				b_sepsiszentgyorgy = {
+					province = 3944
+
+					color = { 180 105 60 }
+					color2 = { 255 255 255 }
+				}
+				b_kovaszna = {
+					province = 3945
+
+					color = { 180 105 60 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_fogaras = {
+				color = { 190 85 50 }
+				color2 = { 255 255 255 }
+
+				b_fogaras = {
+					province = 3940
+
+					color = { 190 85 50 }
+					color2 = { 255 255 255 }
+				}
+				b_torcsvar = {
+					province = 3941
+
+					color = { 190 85 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_torda = {
+				color = { 200 100 51 }
+				color2 = { 255 255 255 }
+
+				b_torda = {
+					province = 3924
+
+					color = { 200 100 51 }
+					color2 = { 255 255 255 }
+				}
+				b_banffyhunyad = {
+					province = 3925
+
+					color = { 200 100 51 }
+					color2 = { 255 255 255 }
+				}
+				b_koloszvar = {
+					province = 3926
+
+					color = { 200 100 51 }
+					color2 = { 255 255 255 }
+				}
+				b_szaszregen = {
+					province = 3927
+
+					color = { 200 100 51 }
+					color2 = { 255 255 255 }
+				}
+				b_aranyosbanya = {
+					province = 3928
+
+					color = { 200 100 51 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_beszterce = {
+				color = { 213 85 50 }
+				color2 = { 255 255 255 }
+
+				b_beszterce = {
+					province = 3919
+
+					color = { 213 85 50 }
+					color2 = { 255 255 255 }
+				}
+				b_radna = {
+					province = 3920
+
+					color = { 213 85 50 }
+					color2 = { 255 255 255 }
+				}
+				b_des = {
+					province = 3921
+
+					color = { 213 85 50 }
+					color2 = { 255 255 255 }
+				}
+				b_szek = {
+					province = 3922
+
+					color = { 213 85 50 }
+					color2 = { 255 255 255 }
+				}
+				b_laposbanya = {
+					province = 3923
+
+					color = { 213 85 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_hunyad = {
+				color = { 175 125 90 }
+				color2 = { 255 255 255 }
+
+				b_vajdahunyad = {
+					province = 3931
+
+					color = { 175 125 90 }
+					color2 = { 255 255 255 }
+				}
+				b_harszoc = {
+					province = 3932
+
+					color = { 175 125 90 }
+					color2 = { 255 255 255 }
+				}
+				b_deva = {
+					province = 3933
+
+					color = { 175 125 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	d_transylvanian_alps = {
+			color = { 175 86 10 }
+			color2 = { 255 255 255 }
+
+			capital = c_campulung # Campulung
+
+			c_campulung = {
+				color = { 175 86 10 }
+				color2 = { 255 255 255 }
+
+				b_targoviste = {
+					province = 515
+
+					color = { 175 86 10 }
+					color2 = { 255 255 255 }
+				}
+				b_campulung = {
+					province = 5009
+
+					color = { 175 86 10 }
+					color2 = { 255 255 255 }
+				}
+				b_arges = {
+					province = 5008
+
+					color = { 175 86 10 }
+					color2 = { 255 255 255 }
+				}
+				b_pitesti = {
+					province = 4993
+
+					color = { 175 86 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_polovragi = {
+				color = { 165 76 10 }
+				color2 = { 255 255 255 }
+
+				b_polovragi = {
+					province = 5005
+
+					color = { 165 76 10 }
+					color2 = { 255 255 255 }
+				}
+				b_govora = {
+					province = 5006
+
+					color = { 165 76 10 }
+					color2 = { 255 255 255 }
+				}
+				b_filiasi = {
+					province = 5007
+
+					color = { 165 76 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_tabla_butii = {
+				color = { 155 66 10 }
+				color2 = { 255 255 255 }
+
+				b_tabla_butii = {
+					province = 4989
+
+					color = { 155 66 10 }
+					color2 = { 255 255 255 }
+				}
+				b_zoresti = {
+					province = 4980
+
+					color = { 155 66 10 }
+					color2 = { 255 255 255 }
+				}
+				b_dumbraveni = {
+					province = 4977
+
+					color = { 155 66 10 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_muntenia = {
+			color = { 220 132 40 }
+			color2 = { 255 255 255 }
+
+			capital = c_giurgiu # Targoviste
+
+			c_giurgiu = {
+				color = { 210 122 50 }
+				color2 = { 255 255 255 }
+
+				b_giurgiu = {
+					province = 4990
+
+					color = { 220 132 40 }
+					color2 = { 255 255 255 }
+				}
+				b_turnu = {
+					province = 514
+
+					color = { 220 132 40 }
+					color2 = { 255 255 255 }
+				}
+				b_rusii_de_vede = {
+					province = 4988
+
+					color = { 220 132 40 }
+					color2 = { 255 255 255 }
+				}
+				b_comana = {
+					province = 4991
+
+					color = { 220 132 40 }
+					color2 = { 255 255 255 }
+				}
+				b_glavacioc = {
+					province = 4992
+
+					color = { 220 132 40 }
+					color2 = { 255 255 255 }
+				}
+				b_costesti = {
+					province = 4994
+
+					color = { 220 132 40 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_bucuresti = {
+				color = { 241 195 72 }
+				color2 = { 255 255 255 }
+
+				b_bucuresti = {
+					province = 4995
+
+					color = { 241 195 72 }
+					color2 = { 255 255 255 }
+				}
+				b_targsor = {
+					province = 4996
+
+					color = { 241 195 72 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_calarasi = {
+				color = { 238 212 80 }
+				color2 = { 255 255 255 }
+
+				b_calarasi = {
+					province = 4997
+
+					color = { 238 212 80 }
+					color2 = { 255 255 255 }
+				}
+				b_radovanu = {
+					province = 4998
+
+					color = { 238 212 80 }
+					color2 = { 255 255 255 }
+				}
+				b_fetesti = {
+					province = 4999
+
+					color = { 238 212 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_buzau = {
+				color = { 230 142 50 }
+				color2 = { 255 255 255 }
+
+				b_buzau = {
+					province = 5000
+
+					color = { 230 142 50 }
+					color2 = { 255 255 255 }
+				}
+				b_slobozia = {
+					province = 5001
+
+					color = { 230 142 50 }
+					color2 = { 255 255 255 }
+				}
+				b_ploiesti = {
+					province = 5002
+
+					color = { 230 142 50 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_braila = {
+				color = { 240 152 60 }
+				color2 = { 255 255 255 }
+
+				b_braila = {
+					province = 5003
+
+					color = { 240 152 60 }
+					color2 = { 255 255 255 }
+				}
+				b_ramnicu_sarat = {
+					province = 5004
+
+					color = { 240 152 60 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_oltenia = {
+			color = { 222 155 78 }
+			color2 = { 255 255 255 }
+
+			capital = c_targu_jiu # Targu Jiu
+
+			c_targu_jiu = {
+				color = { 221 170 77 }
+				color2 = { 255 255 255 }
+
+				b_targu_jiu = {
+					province = 4978
+
+					color = { 221 170 77 }
+					color2 = { 255 255 255 }
+				}
+				b_baia_de_arama = {
+					province = 4979
+
+					color = { 221 170 77 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_severin = {
+				color = { 247 201 78 }
+				color2 = { 255 255 255 }
+
+				b_severin = {
+					province = 516
+
+					color = { 247 201 78 }
+					color2 = { 255 255 255 }
+				}
+				b_orsova = {
+					province = 4975
+
+					color = { 247 201 78 }
+					color2 = { 255 255 255 }
+				}
+				b_mehadia = {
+					province = 4976
+
+					color = { 247 201 78 }
+					color2 = { 255 255 255 }
+				}
+				b_karansebes = {
+					province = 3881
+
+					color = { 247 201 78 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_calafat = {
+				color = { 255 176 76 }
+				color2 = { 255 255 255 }
+
+				b_calafat = {
+					province = 4981
+
+					color = { 255 176 76 }
+					color2 = { 255 255 255 }
+				}
+				b_cujmir = {
+					province = 4982
+
+					color = { 255 176 76 }
+					color2 = { 255 255 255 }
+				}
+				b_strehaia = {
+					province = 4983
+
+					color = { 255 176 76 }
+					color2 = { 255 255 255 }
+				}
+				b_segarcea = {
+					province = 4984
+
+					color = { 255 176 76 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_craiova = {
+				color = { 248 166 66 }
+				color2 = { 255 255 255 }
+
+				b_craiova = {
+					province = 4985
+
+					color = { 248 166 66 }
+					color2 = { 255 255 255 }
+				}
+				b_corabia = {
+					province = 4986
+
+					color = { 248 166 66 }
+					color2 = { 255 255 255 }
+				}
+				b_dragasani = {
+					province = 4987
+
+					color = { 248 166 66 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	 k_thrace = {
+	color =  { 32 250 36 }
+	color2 = { 255 255 255 }	
+	
+			d_strymon = {
+			color = { 49 43 135 }
+			color2 = { 255 255 255 }
+
+			capital = c_mosynopolis # Mosynopolis
+
+			c_mosynopolis = {
+				color = { 49 43 135 }
+				color2 = { 255 255 255 }
+
+				b_mosynopolis = {
+					province = 492
+
+					color = { 49 43 135 }
+					color2 = { 255 255 255 }
+				}
+				b_xanthia = {
+					province = 3767
+
+					color = { 49 43 135 }
+					color2 = { 255 255 255 }
+				}
+				b_traianopolis = {
+					province = 3768
+
+					color = { 49 43 135 }
+					color2 = { 255 255 255 }
+				}
+				b_thasos = {
+					province = 3769
+
+					color = { 49 43 135 }
+					color2 = { 255 255 255 }
+				}
+				b_rodopi = {
+					province = 3554
+
+					color = { 49 43 135 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_serres = {
+				color = { 70 35 130 }
+				color2 = { 255 255 255 }
+
+				b_serres = {
+					province = 3771
+
+					color = { 70 35 130 }
+					color2 = { 255 255 255 }
+				}
+				b_siderokastron = {
+					province = 3770
+
+					color = { 70 35 130 }
+					color2 = { 255 255 255 }
+				}
+				b_drama = {
+					province = 3772
+
+					color = { 70 35 130 }
+					color2 = { 255 255 255 }
+				}
+				b_kavala = {
+					province = 3773
+
+					color = { 70 35 130 }
+					color2 = { 255 255 255 }
+				}
+				b_chrysopolis = {
+					province = 3774
+
+					color = { 70 35 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_thrace = {
+			color = { 180 25 100 }
+			color2 = { 255 255 255 }
+
+			capital = c_byzantion
+
+			c_byzantion = {
+				color = { 180 25 100 }
+				color2 = { 255 255 255 }
+
+				#capital = 496 # Constantinople
+
+				b_constantinople = {
+					province = 496
+
+					color = { 180 25 100 }
+					color2 = { 255 255 255 }
+
+					cultural_names = {
+						name_list_turkish = cn_konstantiniyye
+					}
+				}
+			#	b_hagiasophia = {
+			#		color = { 180 25 100 }
+			#		color2 = { 255 255 255 }
+			#	}
+			}
+
+			c_kalliopolis = {
+				color = { 185 10 80 }
+				color2 = { 255 255 255 }
+
+				#capital = 495 # Kalliopolis
+
+				b_kalliopolis = {
+					province = 495
+
+					color = { 185 10 80 }
+					color2 = { 255 255 255 }
+				}
+				b_ainos = {
+					province = 3766
+
+					color = { 185 10 80 }
+					color2 = { 255 255 255 }
+				}
+				b_kypsela = {
+					province = 3765
+
+					color = { 185 10 80 }
+					color2 = { 255 255 255 }
+				}
+				b_raidestos = {
+					province = 3764
+
+					color = { 185 10 80 }
+					color2 = { 255 255 255 }
+				}
+				b_chariopolis = {
+					province = 3763
+
+					color = { 185 10 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_brysis = {
+				color = { 170 55 90 }
+				color2 = { 255 255 255 }
+
+				#capital = 497 # Brysis / Verissa
+
+				b_brysis = {
+					province = 497
+
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				b_arkadiopolis = {
+					province = 3760
+
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				b_selymbria = {
+					province = 3761
+
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				b_herakleiaperinthos = {
+					province = 3762
+
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				b_bizye = {
+					province = 3759
+
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+				b_salmydessus = {
+					province = 3758
+
+					color = { 170 55 90 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_philippopolis = {
+			color = { 75 100 110 }
+			color2 = { 255 255 255 }
+
+			capital = c_philippopolis # Philippopolis / Plovdiv
+
+			c_philippopolis = {
+				color = { 75 100 110 }
+				color2 = { 255 255 255 }
+
+				#capital = 493 # Philippopolis / Plovdiv
+
+				b_philippopolis = {
+					province = 493
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+				b_tsepina = {
+					province = 3623
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+				b_stanimaka = {
+					province = 3624
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+				b_krichim = {
+					province = 3625
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_kran = {
+				color = { 75 80 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 3636 # Kran
+
+				b_kran = {
+					province = 3636
+
+					color = { 75 80 85 }
+					color2 = { 255 255 255 }
+				}
+				b_sliven = {
+					province = 3635
+
+					color = { 75 80 85 }
+					color2 = { 255 255 255 }
+				}
+				b_kopsis = {
+					province = 3637
+
+					color = { 75 80 85 }
+					color2 = { 255 255 255 }
+				}
+				b_dbilin = { # Modern Yambol
+					province = 3631
+
+					color = { 75 80 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_beroe = {
+				color = { 65 90 130 }
+				color2 = { 255 255 255 }
+
+				#capital = 3632 # Beroe / Boruy
+
+				b_beroe = {
+					province = 3632
+
+					color = { 65 90 130 }
+					color2 = { 255 255 255 }
+				}
+				b_janitsa = {
+					province = 3633
+
+					color = { 65 90 130 }
+					color2 = { 255 255 255 }
+				}
+				b_haskovo = {
+					province = 3634
+
+					color = { 65 90 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_burgas = {
+				color = { 60 100 100 }
+				color2 = { 255 255 255 }
+
+				#capital = 3628 # Burgas
+
+				b_burgas = {
+					province = 3628
+
+					color = { 60 100 100 }
+					color2 = { 255 255 255 }
+				}
+				b_sozopol = {
+					province = 3629
+
+					color = { 60 100 100 }
+					color2 = { 255 255 255 }
+				}
+				b_potamuskastel = {
+					province = 3630
+
+					color = { 60 100 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_adrianopolis = {
+				color = { 90 85 120 }
+				color2 = { 255 255 255 }
+
+				#capital = 494 # Adrianopolis
+
+				b_adrianopolis = {
+					province = 494
+
+					color = { 90 85 120 }
+					color2 = { 255 255 255 }
+				}
+				b_mezeshka = {
+					province = 3626
+
+					color = { 90 85 120 }
+					color2 = { 255 255 255 }
+				}
+				b_didymoteichon = {
+					province = 3627
+
+					color = { 90 85 120 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_zherkovo = {
+				color = { 50 75 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 3618 # Zherkovo / Modern Kardzhali
+
+				b_zherkovo = {
+					province = 3618
+
+					color = { 50 75 85 }
+					color2 = { 255 255 255 }
+				}
+				b_lyutitsa = {
+					province = 3619
+
+					color = { 50 75 85 }
+					color2 = { 255 255 255 }
+				}
+				b_smolyan = {
+					province = 3620
+
+					color = { 50 75 85 }
+					color2 = { 255 255 255 }
+				}
+				b_ustra = {
+					province = 3621
+
+					color = { 50 75 85 }
+					color2 = { 255 255 255 }
+				}
+				b_byalgrad = {
+					province = 3622
+
+					color = { 50 75 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_rhodopes = {
+				color = { 75 100 110 }
+				color2 = { 255 255 255 }
+
+				#capital = 3617 # Nevrokop
+
+				b_nevropkop = {
+					province = 3617
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+				b_kalyatta = {
+					province = 3614
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+				b_dospat = {
+					province = 3615
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+				b_kavurskotokale = {
+					province = 3616
+
+					color = { 75 100 110 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_moesia = {
+	color =  { 236 245 71 }
+	color2 = { 255 255 255 }
+	
+	d_turnovo = { # Moesia / Turnovo / Paristrion
+			color = { 103 78 91 }
+			color2 = { 255 255 255 }
+
+			capital = c_turnovo # Turnovo
+
+			c_turnovo = {
+				color = { 103 78 91 }
+				color2 = { 255 255 255 }
+
+				#capital = 499 # Turnovo
+
+				b_turnovo = {
+					province = 499
+
+					color = { 103 78 91 }
+					color2 = { 255 255 255 }
+				}
+				b_cherven = {
+					province = 3682
+
+					color = { 103 78 91 }
+					color2 = { 255 255 255 }
+				}
+				b_elena = {
+					province = 3683
+
+					color = { 103 78 91 }
+					color2 = { 255 255 255 }
+				}
+				b_gabrovo = {
+					province = 3684
+
+					color = { 103 78 91 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_sredets = {
+				color = { 45 40 75 }
+				color2 = { 255 255 255 }
+
+				#capital = 500 # Serdica / Sredets / Sofia
+
+				b_sredets = {
+					province = 500
+
+					color = { 45 40 75 }
+					color2 = { 255 255 255 }
+				}
+				b_meldi = {
+					province = 3671
+
+					color = { 45 40 75}
+					color2 = { 255 255 255 }
+				}
+				b_pernik = {
+					province = 3672
+
+					color = { 45 40 75 }
+					color2 = { 255 255 255 }
+				}
+				b_stipon = {
+					province = 3673
+
+					color = { 45 40 75 }
+					color2 = { 255 255 255 }
+				}
+				b_rila = {
+					province = 3674
+
+					color = { 45 40 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_nikopolis = {
+				color = { 80 55 68 }
+				color2 = { 255 255 255 }
+
+				#capital = 507 # Nikopolis
+
+				b_nikopolis = {
+					province = 507
+
+					color = { 80 55 68 }
+					color2 = { 255 255 255 }
+				}
+				b_pliven = {
+					province = 3679
+
+					color = { 80 55 68 }
+					color2 = { 255 255 255 }
+				}
+				b_lovech = {
+					province = 3680
+
+					color = { 80 55 68 }
+					color2 = { 255 255 255 }
+				}
+				b_samundzhievo = {
+					province = 3681
+
+					color = { 80 55 68 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_dorostorum = {
+				color = { 108 100 80 }
+				color2 = { 255 255 255 }
+
+				#capital = 508	# Silistra / Dorostorum
+
+				b_preslav = {
+					province = 3689
+
+					color = { 108 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_dorostorum = {
+					province = 508
+
+					color = { 108 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_tutrakan = {
+					province = 3685
+
+					color = { 108 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_shumen = {
+					province = 3686
+
+					color = { 108 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_hrazgrad = {
+					province = 3687
+
+					color = { 108 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_sborishte = {
+					province = 3688
+
+					color = { 108 100 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_vratsa = {
+				color = { 53 38 51 }
+				color2 = { 255 255 255 }
+
+				#capital = 3678 # Vratsa
+
+				b_vratsa = {
+					province = 3678
+
+					color = { 53 38 51 }
+					color2 = { 255 255 255 }
+				}
+				b_lom = {
+					province = 3675
+
+					color = { 53 38 51 }
+					color2 = { 255 255 255 }
+				}
+				b_orehovo = {
+					province = 3676
+
+					color = { 53 38 51 }
+					color2 = { 255 255 255 }
+				}
+				b_kutlovitsa = {
+					province = 3677
+
+					color = { 53 38 51 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aytos = {
+				color = { 65 80 55 }
+				color2 = { 255 255 255 }
+
+				#capital = 3691 # Aytos / Aetos
+
+				b_aytos = {
+					province = 3691
+
+					color = { 65 80 55 }
+					color2 = { 255 255 255 }
+
+				}
+				b_provadiya = {
+					province = 3690
+
+					color = { 65 80 55 }
+					color2 = { 255 255 255 }
+				}
+				b_ktenia = {
+					province = 3692
+
+					color = { 65 80 55 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
+		d_dobrudja = {
+			color = { 75 100 80 }
+			color2 = { 255 255 255 }
+
+			capital = c_constanta # Constanta
+
+			c_constanta = {
+				color = { 75 100 80 }
+				color2 = { 255 255 255 }
+
+				#capital = 510 # Constanta
+
+				b_constanta = {
+					province = 510
+
+					color = { 75 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_tulcha = {
+					province = 3694
+
+					color = { 75 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_sulina = {
+					province = 5010
+
+					color = { 75 100 80 }
+					color2 = { 255 255 255 }
+				}
+				b_mangalia = {
+					province = 3695
+
+					color = { 75 100 80 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_mesembria = {
+				color = { 55 75 65 }
+				color2 = { 255 255 255 }
+
+				#capital = 498 # Mesembria
+
+				b_mesembria = {
+					province = 498
+
+					color = { 55 75 65 }
+					color2 = { 255 255 255 }
+				}
+				b_varna = {
+					province = 3693
+
+					color = { 55 75 65 }
+					color2 = { 255 255 255 }
+				}
+				b_karvuna = {
+					province = 509
+
+					color = { 55 75 65 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+	
+	k_scordisci = {
+	color =  { 71 245 132 }
+	color2 = { 255 255 255 }
+	
+	d_bulgaria = {
+			color = { 120 110 110 }
+			color2 = { 255 255 255 }
+
+			capital = c_naissus # Naissos / Nis
+
+			c_naissus = {
+				color = { 120 110 110 }
+				color2 = { 255 255 255 }
+
+				#capital = 501 # Naissos / Nis
+
+				cultural_names = {
+					name_list_serbian = cn_nis
+					name_list_croatian = cn_nis
+					name_list_bosnian = cn_nis
+				}
+
+				b_naissos = {
+					province = 501
+
+					cultural_names = {
+						name_list_serbian = cn_nis
+						name_list_croatian = cn_nis
+						name_list_bosnian = cn_nis
+					}
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+				b_svrljig = {
+					province = 3661
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+				b_pirot = {
+					province = 3662
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+				b_breznik = {
+					province = 3663
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_pomoravlje = {
+				color = { 120 110 110 }
+				color2 = { 255 255 255 }
+
+				#capital = 3658 # Vranje
+
+				b_vranje = {
+					province = 3658
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+				b_glubocica = {
+					province = 3657
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+				b_novobrdo = {
+					province = 3659
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+				b_morava = {
+					province = 3660
+
+					color = { 120 110 110 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_velbazhd = {
+				color = { 145 135 135 }
+				color2 = { 255 255 255 }
+
+				#capital = 3656 # Velbazhd
+
+				b_velbazhd = {
+					province = 3656
+
+					color = { 145 135 135 }
+					color2 = { 255 255 255 }
+				}
+				b_bosilegrad = {
+					province = 3654
+
+					color = { 145 135 135 }
+					color2 = { 255 255 255 }
+				}
+				b_kratovo = {
+					province = 3655
+
+					color = { 145 135 135 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_pirin = {
+				color = { 110 100 130 }
+				color2 = { 255 255 255 }
+
+				#capital = 3653 # Melnik
+
+				b_melnikpirin = {
+					province = 3653
+
+					color = { 110 100 130 }
+					color2 = { 255 255 255 }
+				}
+				b_scaptopara = {
+					province = 3652
+
+					color = { 110 100 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_strumica = {
+				color = { 140 95 130 }
+				color2 = { 255 255 255 }
+
+				#capital = 3650 # Strumica
+
+				b_strumica = {
+					province = 3650
+
+					color = { 140 95 130 }
+					color2 = { 255 255 255 }
+				}
+				b_shtip = {
+					province = 3648
+
+					color = { 140 95 130 }
+					color2 = { 255 255 255 }
+				}
+				b_maleshevo = {
+					province = 3649
+
+					color = { 140 95 130 }
+					color2 = { 255 255 255 }
+				}
+				b_prosek = {
+					province = 3651
+
+					color = { 140 95 130 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_skopje = {
+				color = { 135 95 95 }
+				color2 = { 255 255 255 }
+
+				#capital = 3643 # Skopje
+
+				b_skopje = {
+					province = 3643
+
+					color = { 135 95 95 }
+					color2 = { 255 255 255 }
+				}
+				b_zegligovo = {
+					province = 3642
+
+					color = { 135 95 95 }
+					color2 = { 255 255 255 }
+				}
+				b_tetovo = {
+					province = 3644
+
+					color = { 135 95 95 }
+					color2 = { 255 255 255 }
+				}
+				b_veles = {
+					province = 3645
+
+					color = { 135 95 95 }
+					color2 = { 255 255 255 }
+				}
+				b_kicevo = {
+					province = 3646
+
+					color = { 135 95 95 }
+					color2 = { 255 255 255 }
+				}
+				b_prilep = {
+					province = 3647
+
+					color = { 135 95 95 }
+					color2 = { 255 255 255 }
+				}
+			}
+
+			c_ohrid = {
+				color = { 135 90 110 }
+				color2 = { 255 255 255 }
+
+				#capital = 471 # Ohrid / Lychidnus
+
+				b_ohrid = {
+					province = 471
+
+					color = { 135 90 110 }
+					color2 = { 255 255 255 }
+				}
+				b_bitola = {
+					province = 3638
+
+					color = { 135 90 110 }
+					color2 = { 255 255 255 }
+				}
+				b_devol = {
+					province = 3639
+
+					color = { 135 90 110 }
+					color2 = { 255 255 255 }
+				}
+				b_kastoria = {
+					province = 3640
+
+					color = { 135 90 110 }
+					color2 = { 255 255 255 }
+				}
+				b_goritsa = {
+					province = 3641
+
+					color = { 135 90 110 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+		
+		d_vidin = {
+			color = { 120 105 85 }
+			color2 = { 255 255 255 }
+
+			capital = c_vidin # Vidin
+
+			c_vidin = {
+				color = { 120 105 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 506 # Vidin
+
+				b_vidin = {
+					province = 506
+
+					color = { 120 105 85 }
+					color2 = { 255 255 255 }
+				}
+				b_kladovo = {
+					province = 3667
+
+					color = { 120 105 85 }
+					color2 = { 255 255 255 }
+				}
+				b_zajecar = {
+					province = 3668
+
+					color = { 120 105 85 }
+					color2 = { 255 255 255 }
+				}
+				b_petrus = {
+					province = 3669
+
+					color = { 120 105 85 }
+					color2 = { 255 255 255 }
+				}
+				b_belogradchik = {
+					province = 3670
+
+					color = { 120 105 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_branicevo = {
+				color = { 120 125 75 }
+				color2 = { 255 255 255 }
+
+				#capital = 3664 # Branicevo
+
+				b_branicevo = {
+					province = 3664
+
+					color = { 120 125 75 }
+					color2 = { 255 255 255 }
+				}
+				b_kucevo = {
+					province = 3665
+
+					color = { 120 125 75 }
+					color2 = { 255 255 255 }
+				}
+				b_ravno = {
+					province = 3666
+
+					color = { 120 125 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
+}
