@@ -6,7 +6,7 @@ e_hellenic_empire = {
  k_athens = {
 	color =  { 42 143 232 }
 	color2 = { 255 255 255 }
-  }
+  
  
  d_athens = {
 		color =  { 42 143 232 }
@@ -739,3 +739,68 @@ d_achaia = { # Euboea
 	color =  { 182 192 199 }
 	color2 = { 255 255 255 }
   
+  d_chandax = {
+		color =  { 42 143 232 }
+		color2 = { 255 255 255 }
+	  c_iraklios = {
+			color =  { 42 143 232 }
+			color2 = { 255 255 255 }
+		  b_iraklios = {
+				color =  { 42 143 232 }
+				color2 = { 255 255 255 }
+			province = 480
+      }
+    }
+      c_aglios = {
+			color =  { 10 168 63 }
+			color2 = { 255 255 255 }
+		  b_aglios = {
+				color =  { 10 168 63 }
+				color2 = { 255 255 255 }
+			province = 3746 # the province id defined in map_data
+      }
+   }
+         c_ierapetra = {
+			color =  { 123 10 68 }
+			color2 = { 255 255 255 }
+		  b_ierapetra = {
+				color =  { 123 10 68 }
+				color2 = { 255 255 255 }
+			province = 3745 # the province id defined in map_data
+		}
+	}
+}
+
+ d_kanea = { # Euboea
+		color =  { 199 95 114 }
+		color2 = { 255 255 255 }
+	  c_kanea = {
+			color =  { 156 73 2 }
+			color2 = { 255 255 255 }
+		  b_kanea = {
+				color =  { 156 73 2 }
+				color2 = { 255 255 255 }
+			province = 479
+			}
+		}
+      c_rethynmo = {
+			color =  { 13 147 34 }
+			color2 = { 255 255 255 }
+		  b_rthynmo = {
+				color =  { 13 147 34 }
+				color2 = { 255 255 255 }
+			province = 3743 # the province id defined in map_data
+			}
+		}
+		
+         c_paleohora = {
+			color =  { 56 83 279 }
+			color2 = { 255 255 255 }
+		  b_paleohora = {
+				color =  { 56 83 279 }
+				color2 = { 255 255 255 }
+			province = 3726 # the province id defined in map_data
+			}
+		}
+	}
+}
