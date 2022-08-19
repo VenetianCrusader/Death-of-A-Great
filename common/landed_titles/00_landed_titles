@@ -1,31 +1,40 @@
 # Greeks
 e_hellenic_empire = {
 	color = { 42 232 232 }
+	color2 = { 255 255 255 }
   }
  k_athens = {
 	color =  { 42 143 232 }
+	color2 = { 255 255 255 }
   }
  
  d_athens = {
 		color =  { 42 143 232 }
+		color2 = { 255 255 255 }
 	  c_athens = {
 			color =  { 42 143 232 }
+			color2 = { 255 255 255 }
 		  b_athens = {
 				color =  { 42 143 232 }
+				color2 = { 255 255 255 }
 			province = 482
       }
     }
       c_thebes = {
 			color =  { 10 168 63 }
+			color2 = { 255 255 255 }
 		  b_thebes = {
 				color =  { 10 168 63 }
+				color2 = { 255 255 255 }
 			province = 3730 # the province id defined in map_data
       }
    }
          c_megara = {
 			color =  { 123 10 68 }
+			color2 = { 255 255 255 }
 		  b_megara = {
 				color =  { 123 10 68 }
+				color2 = { 255 255 255 }
 			province = 3731 # the province id defined in map_data
 		}
 	}
@@ -33,25 +42,32 @@ e_hellenic_empire = {
      
        d_boetia = { # Boetian League
 		color =  { 42 143 232 }
+		color2 = { 255 255 255 }
 	  c_levadia = {
 			color =  { 0 150 150 }
+			color2 = { 255 255 255 }
 		  b_levadia = {
 				color =  { 0 150 150 }
+				color2 = { 255 255 255 }
 			province = 3728
 			}
 		}
       c_bodounista = {
 			color =  { 199 138 16 }
+			color2 = { 255 255 255 }
 		  b_bodounista = {
 				color =  { 199 138 16 }
+				color2 = { 255 255 255 }
 			province = 3727 # the province id defined in map_data
 			}
 		}
 		
          c_amfizza = {
 			color =  { 212 206 195 }
+			color2 = { 255 255 255 }
 		  b_amfizza = {
 				color =  { 212 206 195 }
+				color2 = { 255 255 255 }
 			province = 3729 # the province id defined in map_data
 		}
 	}
@@ -59,25 +75,32 @@ e_hellenic_empire = {
 
     d_euboea = { # Euboea
 		color =  { 199 95 114 }
+		color2 = { 255 255 255 }
 	  c_chalkis = {
 			color =  { 156 73 2 }
+			color2 = { 255 255 255 }
 		  b_chalkis = {
 				color =  { 156 73 2 }
+				color2 = { 255 255 255 }
 			province = 485
 			}
 		}
       c_skopelos = {
 			color =  { 13 147 34 }
+			color2 = { 255 255 255 }
 		  b_spokelos = {
 				color =  { 13 147 34 }
+				color2 = { 255 255 255 }
 			province = 3725 # the province id defined in map_data
 			}
 		}
 		
          c_oreoi = {
 			color =  { 56 83 279 }
+			color2 = { 255 255 255 }
 		  b_oreoi = {
 				color =  { 56 83 279 }
+				color2 = { 255 255 255 }
 			province = 3726 # the province id defined in map_data
 		}
 	}
@@ -86,29 +109,37 @@ e_hellenic_empire = {
  
  k_laconia = {
 	color =  { 218 224 36 }
+	color2 = { 255 255 255 }
   }
   
   d_sparta = { # Euboea
 		color =  { 199 95 114 }
+		color2 = { 255 255 255 }
 	  c_mistra = {
 			color =  { 156 73 2 }
+			color2 = { 255 255 255 }
 		  b_mistra = {
 				color =  { 156 73 2 }
+				color2 = { 255 255 255 }
 			province = 3736
 			}
 		}
       c_sparta = {
 			color =  { 13 147 34 }
+			color2 = { 255 255 255 }
 		  b_sparta = {
 				color =  { 13 147 34 }
+				color2 = { 255 255 255 }
 			province = 3735 # the province id defined in map_data
 			}
 		}
 		
          c_monemvasia = {
 			color =  { 56 83 279 }
+			color2 = { 255 255 255 }
 		  b_monemvasia = {
 				color =  { 56 83 279 }
+				color2 = { 255 255 255 }
 			province = 478 # the province id defined in map_data
 		}
 	}
@@ -116,83 +147,274 @@ e_hellenic_empire = {
 
  d_corinth = { # Euboea
 		color =  { 199 95 114 }
+		color2 = { 255 255 255 }
 	  c_argos = {
 			color =  { 156 73 2 }
+			color2 = { 255 255 255 }
 		  b_argos = {
 				color =  { 156 67 89 }
+				color2 = { 255 255 255 }
 			province = 3798
 			}
 		}
       c_corinth = {
 			color =  { 13 147 34 }
+			color2 = { 255 255 255 }
 		  b_corinth = {
 				color =  { 13 147 34 }
+				color2 = { 255 255 255 }
 			province = 481 # the province id defined in map_data
 			}
 		}
 		
          c_nikli = {
 			color =  { 56 83 279 }
+			color2 = { 255 255 255 }
 		  b_nikli = {
 				color =  { 56 67 90 }
+				color2 = { 255 255 255 }
 			province = 3732 # the province id defined in map_data
 		}
 	}
 	
 	c_damala = {
 			color =  { 45 37 99 }
+			color2 = { 255 255 255 }
 		  b_damala = {
 				color =  { 86 88 279 }
+				color2 = { 255 255 255 }
 			province = 3799 # the province id defined in map_data
 		}
 	}
 	
 d_achaia = { # Euboea
 		color =  { 456 78 21 }
+		color2 = { 255 255 255 }
 	  c_patras = {
 			color =  { 456 78 21 }
+			color2 = { 255 255 255 }
 		  b_patras = {
 				color =  { 156 67 89 }
+				color2 = { 255 255 255 }
 			province = 476
 			}
 		}
       c_vostita = {
 			color =  { 145 55 65 }
+			color2 = { 255 255 255 }
 		  b_vostita = {
 				color =  { 145 55 65 }
+				color2 = { 255 255 255 }
 			province = 3801 # the province id defined in map_data
 			}
 		}
 		
          c_andravia = {
 			color =  { 67 38 120 }
+			color2 = { 255 255 255 }
 		  b_andravia = {
 				color =  { 56 67 90 }
+				color2 = { 255 255 255 }
 			province = 3737 # the province id defined in map_data
 		}
 	}
 	
 	c_kalavrita = {
 			color =  { 45 37 99 }
+			color2 = { 255 255 255 }
 		  b_kalavryta = {
 				color =  { 86 88 279 }
+				color2 = { 255 255 255 }
 			province = 3738 # the province id defined in map_data
 		}
 	}
 
+	d_messenisa = { # Euboea
+		color =  { 321 45 61 }
+		color2 = { 255 255 255 }
+	  c_karytania = {
+			color =  { 34 228 12}
+		  b_karytania = {
+				color =  { 156 67 89 }
+				color2 = { 255 255 255 }
+			province = 3733
+			}
+		}
+      c_arcadia = {
+			color =  { 32 226 78 }
+			color2 = { 255 255 255 }
+		  b_arcadia = {
+				color =  { 32 46 11 }
+				color2 = { 255 255 255 }
+			province = 3734 # the province id defined in map_data
+			}
+		}
+		
+         c_kalmata = {
+			color =  { 67 83 120 }
+			color2 = { 255 255 255 }
+		  b_kalmalta = {
+				color =  { 56 67 138 }
+				color2 = { 255 255 255 }
+			province = 3800 # the province id defined in map_data
+		}
+	}
+	
+	c_methone = {
+			color =  { 45 37 99 }
+			color2 = { 255 255 255 }
+		  b_methone = {
+				color =  { 86 88 279 }
+				color2 = { 255 255 255 }
+			province = 477 # the province id defined in map_data
+		}
+	}
+
 } 
+
    k_epirus = {
 	color =  { 245 245 220 }
+	color2 = { 255 255 255 }
   }
+  
+  d_epirus = {
+			color = { 134 63 109 }
+			color2 = { 255 255 255 }
+
+			capital = c_nicopolis # Arta
+
+			c_nicopolis = {
+				color = { 134 63 109 }
+				color2 = { 255 255 255 }
+
+				#capital = 473 # Arta
+
+				b_arta = {
+					province = 473
+
+					color = { 134 63 109 }
+					color2 = { 255 255 255 }
+				}
+				b_sivista = { # Area eventually controlled by Carlo Tocco
+					province = 3699
+
+					color = { 134 63 109 }
+					color2 = { 255 255 255 }
+				}
+				b_angelokastron = {
+					province = 3700
+
+					color = { 134 63 109 }
+					color2 = { 255 255 255 }
+				}
+				b_vonitsa = {
+					province = 3701
+
+					color = { 134 63 109 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_epeiros = {
+				color = { 140 70 75 }
+				color2 = { 255 255 255 }
+
+				#capital = 3708 # Ioaninna
+
+				b_ioaninna = {
+					province = 3708
+
+					color = { 140 70 75 }
+					color2 = { 255 255 255 }
+				}
+				b_konitsa = {
+					province = 3706
+
+					color = { 140 70 75 }
+					color2 = { 255 255 255 }
+				}
+				b_vella = {
+					province = 3707
+
+					color = { 140 70 75 }
+					color2 = { 255 255 255 }
+				}
+				b_grava = { # Modern Igoumenitsa
+					province = 3709
+
+					color = { 140 70 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_aetolia = {
+				color = { 150 100 140 }
+				color2 = { 255 255 255 }
+
+				#capital = 475 # Naupaktos
+
+				b_naupaktos = {
+					province = 475
+
+					color = { 150 100 140 }
+					color2 = { 255 255 255 }
+				}
+				b_prousos = {
+					province = 3697
+
+					color = { 150 100 140 }
+					color2 = { 255 255 255 }
+				}
+				b_lidoriki = {
+					province = 3698
+
+					color = { 150 100 140 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_metzovo = {
+				color = { 185 130 150 }
+				color2 = { 255 255 255 }
+
+				#capital = 3702 # Metzovo
+
+				b_metzovo = {
+					province = 3702
+
+					color = { 185 130 150 }
+					color2 = { 255 255 255 }
+				}
+				b_gardiki = { # Pindus Gardiki, ancient Pelinna
+					province = 3703
+
+					color = { 185 130 150 }
+					color2 = { 255 255 255 }
+				}
+				b_vrestenitsa = {
+					province = 3704
+
+					color = { 185 130 150 }
+					color2 = { 255 255 255 }
+				}
+				b_agrafa = {
+					province = 3705
+
+					color = { 185 130 150 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+
   
    k_thessalia = {
 	color =  { 0 42 110 }
+	color2 = { 255 255 255 }
   }
  
     k_ionia = {
 	color =  { 42 174 110 }
+	color2 = { 255 255 255 }
   }
 
      k_crete = {
 	color =  { 182 192 199 }
+	color2 = { 255 255 255 }
   }
