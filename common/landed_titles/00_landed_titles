@@ -799,9 +799,8 @@ d_achaia = { # Euboea
 		  b_paleohora = {
 				color =  { 56 83 279 }
 				color2 = { 255 255 255 }
-			province = 3726 # the province id defined in map_data
+			province = 3744 # the province id defined in map_data
 				}
 			}
 		}
 	}
-}
