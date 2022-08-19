@@ -226,9 +226,10 @@ d_achaia = { # Euboea
 				color =  { 86 88 279 }
 				color2 = { 255 255 255 }
 			province = 3738 # the province id defined in map_data
+			}
 		}
 	}
-
+	
 	d_messenisa = { # Euboea
 		color =  { 321 45 61 }
 		color2 = { 255 255 255 }
