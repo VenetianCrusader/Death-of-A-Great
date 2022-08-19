@@ -800,6 +800,7 @@ d_achaia = { # Euboea
 				color =  { 56 83 279 }
 				color2 = { 255 255 255 }
 			province = 3726 # the province id defined in map_data
+				}
 			}
 		}
 	}
