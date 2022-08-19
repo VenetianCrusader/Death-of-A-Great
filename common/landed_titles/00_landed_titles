@@ -270,8 +270,7 @@ d_achaia = { # Euboea
 			province = 477 # the province id defined in map_data
 			}
 		}
-	}
- }
+ 	}
 
    k_epirus = {
 	color =  { 245 245 220 }
@@ -445,7 +444,6 @@ d_achaia = { # Euboea
 
 					color = { 190 90 70 }
 					color2 = { 255 255 255 }
-				}
 			}
 		}
 	}	
@@ -583,7 +581,6 @@ d_achaia = { # Euboea
 			}
 		}
 	}
- 
     k_ionia = {
 	color =  { 42 174 110 }
 	color2 = { 255 255 255 }
