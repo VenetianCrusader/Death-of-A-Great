@@ -2,7 +2,7 @@
 e_hellenic_empire = {
 	color = { 42 232 232 }
 	color2 = { 255 255 255 }
-  }
+  
  k_athens = {
 	color =  { 42 143 232 }
 	color2 = { 255 255 255 }
@@ -102,15 +102,15 @@ e_hellenic_empire = {
 				color =  { 56 83 279 }
 				color2 = { 255 255 255 }
 			province = 3726 # the province id defined in map_data
+			}
 		}
 	}
 }
-
  
  k_laconia = {
 	color =  { 218 224 36 }
 	color2 = { 255 255 255 }
-  }
+  
   
   d_sparta = { # Euboea
 		color =  { 199 95 114 }
@@ -186,7 +186,7 @@ e_hellenic_empire = {
 			province = 3799 # the province id defined in map_data
 		}
 	}
-	
+}	
 d_achaia = { # Euboea
 		color =  { 456 78 21 }
 		color2 = { 255 255 255 }
@@ -267,17 +267,17 @@ d_achaia = { # Euboea
 				color =  { 86 88 279 }
 				color2 = { 255 255 255 }
 			province = 477 # the province id defined in map_data
+			}
 		}
 	}
-
-} 
+ }
 
    k_epirus = {
 	color =  { 245 245 220 }
 	color2 = { 255 255 255 }
-  }
   
-  d_epirus = {
+  
+  	d_epirus = {
 			color = { 134 63 109 }
 			color2 = { 255 255 255 }
 
@@ -401,20 +401,341 @@ d_achaia = { # Euboea
 					color2 = { 255 255 255 }
 				}
 			}
+		
+		d_cephalonia = {
+			color = { 180 110 85 }
+			color2 = { 255 255 255 }
+
+			capital = c_cephalonia # Cephalonia
+
+			c_cephalonia = {
+				color = { 180 110 85 }
+				color2 = { 255 255 255 }
+
+				#capital = 474 # Cephalonia
+
+				b_cephalonia = {
+					province = 474
+
+					color = { 180 110 85 }
+					color2 = { 255 255 255 }
+				}
+				b_zakynthos = {
+					province = 3696
+
+					color = { 180 110 85 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_buthrotum = {
+				color = { 190 90 70 }
+				color2 = { 255 255 255 }
+
+				#capital = 472 # Buthrotum / Butrint
+
+				b_buthrotum = {
+					province = 472
+
+					color = { 190 90 70 }
+					color2 = { 255 255 255 }
+				}
+				b_corfu = {
+					province = 3710
+
+					color = { 190 90 70 }
+					color2 = { 255 255 255 }
+				}
+			}
 		}
+	}	
+		
 
   
    k_thessalia = {
 	color =  { 0 42 110 }
 	color2 = { 255 255 255 }
-  }
+  
+ 
+ d_thessaly = {
+			color = { 170 30 165 }
+			color2 = { 255 255 255 }
+
+			capital = c_thessalia # Larissa
+
+			c_thessalia = {
+				color = { 170 30 165 }
+				color2 = { 255 255 255 }
+
+				#capital = 489 # Larissa
+
+				b_larissa = {
+					province = 489
+
+					color = { 170 30 165 }
+					color2 = { 255 255 255 }
+				}
+				b_platamon = {
+					province = 3786
+
+					color = { 170 30 165 }
+					color2 = { 255 255 255 }
+				}
+				b_servia = {
+					province = 3787
+
+					color = { 170 30 165 }
+					color2 = { 255 255 255 }
+				}
+				b_elasson = {
+					province = 3788
+
+					color = { 170 30 165 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_demetrias = {
+				color = { 205 35 165 }
+				color2 = { 255 255 255 }
+
+				#capital = 488 # Demetrias
+
+				b_demetrias = {
+					province = 488
+
+					color = { 205 35 165 }
+					color2 = { 255 255 255 }
+				}
+				b_velestino = {
+					province = 3789
+
+					color = { 205 35 165 }
+					color2 = { 255 255 255 }
+				}
+				b_halmyros = {
+					province = 3790
+
+					color = { 205 35 165 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_neopatras = {
+				color = { 185 60 150 }
+				color2 = { 255 255 255 }
+
+				#capital = 3795 # Neopatras
+
+				b_neopatras = {
+					province = 3793
+
+					color = { 185 60 150 }
+					color2 = { 255 255 255 }
+				}
+				b_domokos = {
+					province = 3791
+
+					color = { 185 60 150 }
+					color2 = { 255 255 255 }
+				}
+				b_gardikia = {
+					province = 3792
+
+					color = { 185 60 150 }
+					color2 = { 255 255 255 }
+				}
+				b_zetouni = {
+					province = 3794
+
+					color = { 185 60 150 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_thessaliotis = { # Megalo Vlachia
+				color = { 155 30 210 }
+				color2 = { 255 255 255 }
+
+				#capital = 3797 # Trikala
+
+				b_trikala = {
+					province = 3797
+
+					color = { 155 30 210 }
+					color2 = { 255 255 255 }
+				}
+				b_grevena = {
+					province = 3795
+
+					color = { 155 30 210 }
+					color2 = { 255 255 255 }
+				}
+				b_stagoi = {
+					province = 3796
+
+					color = { 155 30 210 }
+					color2 = { 255 255 255 }
+				}
+				b_pharsalos = {
+					province = 3570
+
+					color = { 155 30 210 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
  
     k_ionia = {
 	color =  { 42 174 110 }
 	color2 = { 255 255 255 }
-  }
+  d_aegean_islands = {
+			color = { 220 30 75 }
+			color2 = { 255 255 255 }
 
+			capital = c_naxos # Naxos
+
+			c_naxos = {
+				color = { 220 30 75 }
+				color2 = { 255 255 255 }
+
+				#capital = 484 # Naxos
+
+				b_naxos = {
+					province = 484
+
+					color = { 220 30 75 }
+					color2 = { 255 255 255 }
+				}
+				b_thera = {
+					province = 3757
+
+					color = { 220 30 75 }
+					color2 = { 255 255 255 }
+				}
+				b_andros = {
+					province = 3755
+
+					color = { 220 30 75 }
+					color2 = { 255 255 255 }
+				}
+				b_tinos = {
+					province = 3756
+
+					color = { 220 30 75 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_abydos = {
+				color = { 175 20 100 }
+				color2 = { 255 255 255 }
+
+				#capital = 744 # Abydos
+
+				b_abydos = {
+					province = 744
+
+					color = { 175 20 100 }
+					color2 = { 255 255 255 }
+				}
+				b_lampsakos = {
+					province = 3749
+
+					color = { 175 20 100 }
+					color2 = { 255 255 255 }
+				}
+				b_ilion = {
+					province = 3750
+
+					color = { 175 20 100 }
+					color2 = { 255 255 255 }
+				}
+				b_alexandriatroas = {
+					province = 3751
+
+					color = { 175 20 100 }
+					color2 = { 255 255 255 }
+				}
+				b_pagaea = {
+					province = 3748
+
+					color = { 175 20 100 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_lesbos = {
+				color = { 150 15 150 }
+				color2 = { 255 255 255 }
+
+				#capital = 487 # Mytilene / Lesbos
+
+				b_mytilene = {
+					province = 487
+
+					color = { 150 15 150 }
+					color2 = { 255 255 255 }
+				}
+				b_lemnos = {
+					province = 3752
+
+					color = { 150 15 150 }
+					color2 = { 255 255 255 }
+				}
+				b_skyros = {
+					province = 3753
+
+					color = { 150 15 150 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_chios = {
+				color = { 180 10 175 }
+				color2 = { 255 255 255 }
+
+				#capital = 486 # Chios
+
+				b_chios = {
+					province = 486
+
+					color = { 180 10 175 }
+					color2 = { 255 255 255 }
+				}
+				b_samos = {
+					province = 3754
+
+					color = { 180 10 175 }
+					color2 = { 255 255 255 }
+				}
+			}
+			c_rhodos = {
+				color = { 155 65 245 }
+				color2 = { 255 255 255 }
+
+				b_rhodos = {
+					province = 483
+
+					color = { 155 65 245 }
+					color2 = { 255 255 255 }
+				}
+				b_kos = {
+					province = 3740
+
+					color = { 155 65 245 }
+					color2 = { 255 255 255 }
+				}
+				b_lindos = {
+					province = 3741
+
+					color = { 155 65 245 }
+					color2 = { 255 255 255 }
+				}
+				b_karpathos = {
+					province = 3742
+
+					color = { 155 65 245 }
+					color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
      k_crete = {
 	color =  { 182 192 199 }
 	color2 = { 255 255 255 }
-  }
+  
