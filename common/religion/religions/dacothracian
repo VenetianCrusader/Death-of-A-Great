@@ -1,4 +1,4 @@
-thracian_religion = {
+dacothracian_religion = {
 	family = rf_pagan
 
 	pagan_roots = yes
@@ -49,88 +49,88 @@ thracian_religion = {
 
 	localization = {
 		#High God Name
-		HighGodName = thracian_high_god_name
-		HighGodName2 = thracian_high_god_name_2
-		HighGodNamePossessive = thracian_high_god_name_possessive
+		HighGodName = dacothracian_high_god_name
+		HighGodName2 = dacothracian_high_god_name_2
+		HighGodNamePossessive = dacothracian_high_god_name_possessive
 		HighGodNameSheHe = CHARACTER_SHEHE_HE
 		HighGodHerselfHimself = CHARACTER_HIMSELF
 		HighGodHerHis = CHARACTER_HERHIS_HIS
-		HighGodNameAlternate = thracian_high_god_name_alternate
-		HighGodNameAlternatePossessive = thracian_high_god_name_alternate_possessive
+		HighGodNameAlternate = dacothracian_high_god_name_alternate
+		HighGodNameAlternatePossessive = dacothracian_high_god_name_alternate_possessive
 
 		#Creator
-		CreatorName = thracian_creator_god_name
-		CreatorNamePossessive = thracian_creator_god_name_possessive
+		CreatorName = dacothracian_creator_god_name
+		CreatorNamePossessive = dacothracian_creator_god_name_possessive
 		CreatorSheHe = CHARACTER_SHEHE_SHE
 		CreatorHerHis = CHARACTER_HERHIS_HER
 		CreatorHerHim = CHARACTER_HERHIM_HER
 
 		#HealthGod
-		HealthGodName = thracian_health_god_name
-		HealthGodNamePossessive = thracian_health_god_name_possessive
+		HealthGodName = dacothracian_health_god_name
+		HealthGodNamePossessive = dacothracian_health_god_name_possessive
 		HealthGodSheHe = CHARACTER_SHEHE_HE
 		HealthGodHerHis = CHARACTER_HERHIS_HIS
 		HealthGodHerHim = CHARACTER_HERHIM_HIM
 		
 		#FertilityGod
-		FertilityGodName = thracian_fertility_god_name
-		FertilityGodNamePossessive = thracian_fertility_god_name_possessive
+		FertilityGodName = dacothracian_fertility_god_name
+		FertilityGodNamePossessive = dacothracian_fertility_god_name_possessive
 		FertilityGodSheHe = CHARACTER_SHEHE_SHE
 		FertilityGodHerHis = CHARACTER_HERHIS_HER
 		FertilityGodHerHim = CHARACTER_HERHIM_HER
 
 		#WealthGod
-		WealthGodName = thracian_wealth_god_name
-		WealthGodNamePossessive = thracian_wealth_god_name_possessive
+		WealthGodName = dacothracian_wealth_god_name
+		WealthGodNamePossessive = dacothracian_wealth_god_name_possessive
 		WealthGodSheHe = CHARACTER_SHEHE_HE
 		WealthGodHerHis = CHARACTER_HERHIS_HIS
 		WealthGodHerHim = CHARACTER_HERHIM_HIM
 
 		#HouseholdGod
-		HouseholdGodName = thracian_household_god_name
-		HouseholdGodNamePossessive = thracian_household_god_name_possessive
+		HouseholdGodName = dacothracian_household_god_name
+		HouseholdGodNamePossessive = dacothracian_household_god_name_possessive
 		HouseholdGodSheHe = CHARACTER_SHEHE_SHE
 		HouseholdGodHerHis = CHARACTER_HERHIS_HER
 		HouseholdGodHerHim = CHARACTER_HERHIM_HER
 
 		#FateGod
-		FateGodName = thracian_fate_god_name
-		FateGodNamePossessive = thracian_fate_god_name_possessive
+		FateGodName = dacothracian_fate_god_name
+		FateGodNamePossessive = dacothracian_fate_god_name_possessive
 		FateGodSheHe = CHARACTER_SHEHE_THEY
 		FateGodHerHis = CHARACTER_HERHIS_THEIR
 		FateGodHerHim = CHARACTER_HERHIM_THEM
 
 		#KnowledgeGod
-		KnowledgeGodName = thracian_knowledge_god_name
-		KnowledgeGodNamePossessive = thracian_knowledge_god_name_possessive
+		KnowledgeGodName = dacothracian_knowledge_god_name
+		KnowledgeGodNamePossessive = dacothracian_knowledge_god_name_possessive
 		KnowledgeGodSheHe = CHARACTER_SHEHE_SHE
 		KnowledgeGodHerHis = CHARACTER_HERHIS_HER
 		KnowledgeGodHerHim = CHARACTER_HERHIM_HER
 
 		#WarGod
-		WarGodName = thracian_war_god_name
-		WarGodNamePossessive = thracian_war_god_name_possessive
+		WarGodName = dacothracian_war_god_name
+		WarGodNamePossessive = dacothracian_war_god_name_possessive
 		WarGodSheHe = CHARACTER_SHEHE_HE
 		WarGodHerHis = CHARACTER_HERHIS_HIS
 		WarGodHerHim = CHARACTER_HERHIM_HIM
 
 		#TricksterGod
-		TricksterGodName = thracian_trickster_god_name
-		TricksterGodNamePossessive = thracian_trickster_god_name_possessive
+		TricksterGodName = dacothracian_trickster_god_name
+		TricksterGodNamePossessive = dacothracian_trickster_god_name_possessive
 		TricksterGodSheHe = CHARACTER_SHEHE_HE
 		TricksterGodHerHis = CHARACTER_HERHIS_HIS
 		TricksterGodHerHim = CHARACTER_HERHIM_HIM
 
 		#NightGod
-		NightGodName = thracian_night_god_name
-		NightGodNamePossessive = thracian_night_god_name_possessive
+		NightGodName = dacothracian_night_god_name
+		NightGodNamePossessive = dacothracian_night_god_name_possessive
 		NightGodSheHe = CHARACTER_SHEHE_SHE
 		NightGodHerHis = CHARACTER_HERHIS_HER
 		NightGodHerHim = CHARACTER_HERHIM_HER
 
 		#WaterGod
-		WaterGodName = thracian_water_god_name
-		WaterGodNamePossessive = thracian_water_god_name_possessive
+		WaterGodName = dacothracian_water_god_name
+		WaterGodNamePossessive = dacothracian_water_god_name_possessive
 		WaterGodSheHe = CHARACTER_SHEHE_HE
 		WaterGodHerHis = CHARACTER_HERHIS_HIS
 		WaterGodHerHim = CHARACTER_HERHIM_HIM
@@ -141,24 +141,24 @@ thracian_religion = {
 		PantheonTerm2 = religion_the_gods_2
 		PantheonTerm3 = religion_the_gods_3
 		PantheonTermHasHave = pantheon_term_have
-		GoodGodNames = { thracian_good_god_bendis }
-		DevilName = thracian_devil_name
-		DevilNamePossessive = thracian_devil_name_possessive
+		GoodGodNames = { dacothracian_good_god_bendis }
+		DevilName = dacothracian_devil_name
+		DevilNamePossessive = dacothracian_devil_name_possessive
 		DevilSheHe = CHARACTER_SHEHE_HE
 		DevilHerHis = CHARACTER_HERHIS_HIS
 		DevilHerselfHimself = CHARACTER_HIMSELF
-		EvilGodNames = { thracian_evil_god_menoetius thracian_evil_god_erinyes }
+		EvilGodNames = { dacothracian_evil_god_menoetius dacothracian_evil_god_erinyes }
 		HouseOfWorship = paganism_house_of_worship
 		HouseOfWorship2 = paganism_house_of_worship_2
 		HouseOfWorship3 = paganism_house_of_worship_3
 		HouseOfWorshipPlural = paganism_house_of_worship_plural
-		ReligiousSymbol = thracian_religious_symbol
-		ReligiousSymbol2 = thracian_religious_symbol_2
-		ReligiousSymbol3 = thracian_religious_symbol_3
-		ReligiousText = thracian_religious_text
-		ReligiousText2 = thracian_religious_text_2
-		ReligiousText3 = thracian_religious_text_3
-		ReligiousHeadName = thracian_religious_head_title
+		ReligiousSymbol = dacothracian_religious_symbol
+		ReligiousSymbol2 = dacothracian_religious_symbol_2
+		ReligiousSymbol3 = dacothracian_religious_symbol_3
+		ReligiousText = dacothracian_religious_text
+		ReligiousText2 = dacothracian_religious_text_2
+		ReligiousText3 = dacothracian_religious_text_3
+		ReligiousHeadName = dacothracian_religious_head_title
 		ReligiousHeadTitleName = dualism_religious_head_title_name
 		DevoteeMale = paganism_devotee
 		DevoteeMalePlural = paganism_devoteeplural
@@ -166,34 +166,34 @@ thracian_religion = {
 		DevoteeFemalePlural = paganism_devoteeplural
 		DevoteeNeuter = paganism_devotee
 		DevoteeNeuterPlural = paganism_devoteeplural
-		PriestMale = thracian_priest_male
-		PriestMalePlural = thracian_priest_male_plural
-		PriestFemale = thracian_priest_female
-		PriestFemalePlural = thracian_priest_female_plural
-		PriestNeuter = thracian_priest_male
-		PriestNeuterPlural = thracian_priest_male_plural
+		PriestMale = dacothracian_priest_male
+		PriestMalePlural = dacothracian_priest_male_plural
+		PriestFemale = dacothracian_priest_female
+		PriestFemalePlural = dacothracian_priest_female_plural
+		PriestNeuter = dacothracian_priest_male
+		PriestNeuterPlural = dacothracian_priest_male_plural
 		AltPriestTermPlural = christianity_priest_alternate_plural
-		BishopMale = thracian_bishop_male
-		BishopMalePlural = thracian_bishop_male_plural
-		BishopFemale = thracian_priest_female
-		BishopFemalePlural = thracian_priest_female_plural
-		BishopNeuter = thracian_priest_male
-		BishopNeuterPlural = thracian_priest_male_plural
-		DivineRealm = thracian_divine_realm
-		DivineRealm2 = thracian_divine_realm_2
-		DivineRealm3 = thracian_divine_realm_3
-		PositiveAfterLife = thracian_death_deity_name
-		PositiveAfterLife2 = thracian_death_deity_name_2
-		PositiveAfterLife3 = thracian_death_deity_name_3
-		NegativeAfterLife = thracian_death_deity_name
-		NegativeAfterLife2 = thracian_death_deity_name_2
-		NegativeAfterLife3 = thracian_death_deity_name_3
-		DeathDeityName = thracian_death_deity_name
-		DeathDeityNamePossessive = thracian_death_deity_name_possessive
+		BishopMale = dacothracian_bishop_male
+		BishopMalePlural = dacothracian_bishop_male_plural
+		BishopFemale = dacothracian_priest_female
+		BishopFemalePlural = dacothracian_priest_female_plural
+		BishopNeuter = dacothracian_priest_male
+		BishopNeuterPlural = dacothracian_priest_male_plural
+		DivineRealm = dacothracian_divine_realm
+		DivineRealm2 = dacothracian_divine_realm_2
+		DivineRealm3 = dacothracian_divine_realm_3
+		PositiveAfterLife = dacothracian_death_deity_name
+		PositiveAfterLife2 = dacothracian_death_deity_name_2
+		PositiveAfterLife3 = dacothracian_death_deity_name_3
+		NegativeAfterLife = dacothracian_death_deity_name
+		NegativeAfterLife2 = dacothracian_death_deity_name_2
+		NegativeAfterLife3 = dacothracian_death_deity_name_3
+		DeathDeityName = dacothracian_death_deity_name
+		DeathDeityNamePossessive = dacothracian_death_deity_name_possessive
 		DeathDeitySheHe = CHARACTER_SHEHE_HE
 		DeathDeityHerHis = CHARACTER_HERHIS_HIS
-		WitchGodName = thracian_witchgodname_hekate
-		WitchGodNamePossessive = thracian_witchgodname_hekate_possessive
+		WitchGodName = dacothracian_witchgodname_hekate
+		WitchGodNamePossessive = dacothracian_witchgodname_hekate_possessive
 		WitchGodHerHis = CHARACTER_HERHIS_HER
 		WitchGodSheHe = CHARACTER_SHEHE_HE
 		WitchGodHerHim = CHARACTER_HERHIM_HER
@@ -207,7 +207,7 @@ thracian_religion = {
 
 	faiths = {
 		Bendism = {
-			color = { 0.6 0.1 0.1 }
+			color = { 89 235 87 }
 			icon = hellenic
 			reformed_icon = hellenic_reformed
 
@@ -223,4 +223,24 @@ thracian_religion = {
 			doctrine = tenet_communal_identity
 			doctrine = tenet_esotericism
 		}
+		zalmoxian = {
+			color = { 227 225 87 }
+			icon = hellenic
+			reformed_icon = hellenic_reformed
+
+			holy_site = preslav
+			holy_site = trnovo
+			holy_site = pagania
+			holy_site = pest
+			holy_site = olympus
+
+			doctrine = unreformed_faith_doctrine
+
+			doctrine = tenet_cthonic_redoubts
+			doctrine = tenet_communal_identity
+			doctrine = tenet_inner_journey
+		}
 	}
+	
+	}
+	
