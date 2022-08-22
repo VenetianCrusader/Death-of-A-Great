@@ -223,7 +223,7 @@ hellenic_religion = {
 			doctrine = tenet_communal_identity
 			doctrine = tenet_esotericism
 		}
-	}
+	
 
 
 		roman = {
@@ -243,7 +243,7 @@ hellenic_religion = {
 			doctrine = tenet_ritual_celebrations
 			doctrine = unreformed_syncretism
 		}
-	}
+	
 
 		dionysianism = { # Cult of Dionysus
 			color = { 0.6 0.1 0.1 }
@@ -262,7 +262,7 @@ hellenic_religion = {
 			doctrine = tenet_hedonism
 			doctrine = tenet_esotericism
 		}
-	}
+	
 	
 	orphism = { # Orphic Cult
 			color = { 0.6 0.1 0.1 }
@@ -280,8 +280,8 @@ hellenic_religion = {
 			doctrine = tenet_inner_journey
 			doctrine = tenet_reincarnation
 			doctrine = tenet_esotericism
-		}
 	}
+	
 
 eleusinianism = { # Mystery Cult
 			color = { 0.6 0.1 0.1 }
@@ -300,7 +300,7 @@ eleusinianism = { # Mystery Cult
 			doctrine = tenet_ritual_celebrations
 			doctrine = tenet_esotericism
 		}
-	}
+	
 eileithyiaism = { # Cretan Hellenism
 			color = { 0.6 0.1 0.1 }
 			icon = hellenic
@@ -320,6 +320,6 @@ eileithyiaism = { # Cretan Hellenism
 		}
 	}
 
-}
+
 
 
