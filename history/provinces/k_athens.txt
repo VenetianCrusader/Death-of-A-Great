@@ -3,26 +3,17 @@
 	culture = greek
 	religion = olympianism
 	holding = castle_holding
-	867.1.1 = {
-		buildings = {
-			hill_forts_01
-			common_tradeport_01
-		}
-	}
-	1066.1.1 = {
-		buildings = {
-			hill_forts_01
-			common_tradeport_01
-			hill_farms_01
-		}
-	}
-}
+	
 3730 = {	#Thebes
-	holding = city_holding
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+	
 }
 3731 = {	#Megara
-	holding = church_holding
-	#Set as church_holding to have all 3 holding types
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
 }
 
 ###d_boeotia
