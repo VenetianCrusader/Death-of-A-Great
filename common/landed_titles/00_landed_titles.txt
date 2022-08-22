@@ -6223,144 +6223,117 @@ d_weneti = {
 	c_darioritum = {
 			color = { 77 197 80 }
 			color2 = { 255 255 255 }
-		b_darioritum
-				color = { 77 197 80 }
-				color2 = { 255 255 255 }
+		
+		b_darioritum = {
+			color = { 77 197 80 }
+			color2 = { 255 255 255 }
 			province = 2154
-			}
-				}
-				b_porhoet = {
-					province = 2163
-
-					color = { 145 170 171 }
-					color2 = { 255 255 255 }
-				}
-				b_rohan = {
-					province = 2160
-
-					color = { 145 170 171 }
-					color2 = { 255 255 255 }
+		}
+		b_porhoet = {
+			color = { 77 197 80 }
+			color2 = { 255 255 255 }
+			province = 2163
+		}
+		b_rohan = { 
+			color = { 77 197 80 }
+			color2 = { 255 255 255 }
+			province = 2160
 				}
 			}
-			c_nantes = {
-				color = { 131 145 145 }
-				color2 = { 255 255 255 }
-
-				b_nantes = {
-					province = 2152
-
-					color = { 131 145 145 }
-					color2 = { 255 255 255 }
-					}
-				}
-				b_rais = {
-					province = 2151
-
-					color = { 131 145 145 }
-					color2 = { 255 255 255 }
-				}
-				b_guerande = {
-					province = 2153
-
-					color = { 131 145 145 }
-					color2 = { 255 255 255 }
-				}
-				b_chateaubriant = {
-					province = 2166
-
-					color = { 131 145 145 }
-					color2 = { 255 255 255 }
+	c_condevincenum = {
+			color = { 18 156 80 }
+			color2 = { 255 255 255 }
+		
+		b_condevincenum = {
+			color = { 18 156 80 }
+			color2 = { 255 255 255 }
+			province = 2152
+		}
+		b_rais = {
+			color = { 18 156 80 }
+			color2 = { 255 255 255 }
+			province = 2151
+		}
+		b_guerande = {
+			color = { 131 145 145 }
+			color2 = { 255 255 255 }
+			province = 2153
+		}
+		b_chateaubriant = {
+			color = { 131 145 145 }
+			color2 = { 255 255 255 }
+			province = 2166
 				}
 			}
-			c_cornouaille = {
-				color = { 120 161 161 }
-				color2 = { 255 255 255 }
-
-				b_quimper = {
-					province = 2156
-
-					color = { 120 161 161 }
-					color2 = { 255 255 255 }
-
-					}
-				}
-				b_lorient = {
-					province = 2155
-
-					color = { 120 161 161 }
-					color2 = { 255 255 255 }
-
-				}
-				b_cornouailles = {
-					province = 2159
-
-					color = { 120 161 161 }
-					color2 = { 255 255 255 }
-
+	c_condate_redonum = {
+			color = { 35 144 109 }
+			color2 = { 255 255 255 }
+		
+		b_condate_redonum = {
+			color = { 35 144 109 }
+			color2 = { 255 255 255 }
+			province = 2165
+		}
+		b_combourg = {
+			color = { 35 144 109 }
+			color2 = { 255 255 255 }
+			province = 2282
 				}
 			}
-			c_french_leon = {
-				color = { 69 97 97 }
-				color2 = { 255 255 255 }
-
-				b_brest = {
-					province = 2157
-
-					color = { 69 97 97 }
-					color2 = { 255 255 255 }
-				}
-				b_st_pol_de_leon = {
-					province = 2158
-
-					color = { 69 97 97 }
-					color2 = { 255 255 255 }
-					}
-				}
-			}
-			c_penthievre = {
-				color = { 81 133 133 }
-				color2 = { 255 255 255 }
-
-				b_saint_brieuc = {
-					province = 2162
-
-					color = { 81 133 133 }
-					color2 = { 255 255 255 }
-					}
-				}
-				b_treguier = {
-					province = 2161
-
-					color = { 81 133 133 }
-					color2 = { 255 255 255 }
-				}
-				b_saint_malo = {
-					province = 2164
-
-					color = { 81 133 133 }
-					color2 = { 255 255 255 }
-
-					cultural_names = {
-						name_list_breton = cn_sant_malou
-					}
+	c_coriosolitum = {
+			color = { 32 190 57 }
+			color2 = { 255 255 255 }
+		
+		b_saint_brieuc = {
+			color = { 32 190 57 }
+			color2 = { 255 255 255 }
+			province = 2162
+		}
+		b_treguier
+			color = { 32 190 57 }
+			color2 = { 255 255 255 }
+			province = 2161
+		}
+		b_saint_malo
+			color = { 32 190 57 }
+			color2 = { 255 255 255 }
+			province = 2164
 				}
 			}
-			c_rennes = {
-				color = { 137 199 199 }
-				color2 = { 255 255 255 }
+	c_cornouaille = {
+			color = { 75 147 57 }
+			color2 = { 255 255 255 }
 
-				b_rennes = {
-					province = 2165
-
-					color = { 137 199 199 }
-					color2 = { 255 255 255 }
-					}
-				}
-				b_combourg = {
-					province = 2282
-
-					color = { 137 199 199 }
-					color2 = { 255 255 255 }
-					}
+		b_quimper = {
+			color = { 75 147 57 }
+			color2 = { 255 255 255 }
+			province = 2156
+		}
+		b_lorient = {
+			color = { 75 147 57 }
+			color2 = { 255 255 255 }
+			province = 2155			
+		}
+		b_cornouailles = {
+			color = { 75 147 57 }
+			color2 = { 255 255 255 }
+			province = 2159
 				}
 			}
+	c_bresta = {
+			color = { 30 84 57 }
+			color2 = { 255 255 255 }
+		
+		b_bresta
+			color = { 30 84 57 }
+			color2 = { 255 255 255 }
+			province = 2157
+		}
+		b_leon
+			color = { 30 84 57 }
+			color2 = { 255 255 255 }
+			province = 2158
+			}
+		}
+	}
+}
