@@ -1,0 +1,87 @@
+##d_thessaly ###################################
+###c_thessalia
+489 = {		#Thessalia
+	culture = greek
+	religion = olympianism
+	holding = tribal_holding
+	
+}
+3786 = {	#Platamon
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3787 = {	#Servia
+	culture = greek
+	religion = olympianism
+	holding = city_holding
+}
+3788 = {	#Elasson aka Elassona
+	culture = greek
+	religion = olympianism
+	holding = church_holding
+}
+
+###c_demetrias
+488 = {		#Demetrias
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3789 = {	#Velestino
+	culture = greek
+	religion = olympianism
+	holding = tribal_holding
+	#Abandonned in VIIth, 1st mention after that in XIIIth
+}
+3790 = {	#Halmyros tied to the ancient city of Alos
+	culture = greek
+	religion = olympianism
+	holding = city_holding
+}
+
+###c_neopatras
+3793 = {	#Neopatras
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3791 = {	#Domokos
+	culture = greek
+	religion = olympianism
+	holding = church_holding
+}
+3792 = {	#Gardikia
+	culture = greek
+	religion = olympianism
+	holding = tribal_holding
+}
+3794 = {	#Zetouni aka Lamia
+	holding = city_holding
+}
+
+###c_thessaliotis
+3797 = {	#Trikala
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3795 = {	#Grevena
+	culture = greek
+	religion = olympianism
+	holding = tribal_holding
+}
+3796 = {	#Stagoi
+	culture = greek
+	religion = olympianism
+	holding = tribal_holding
+	900.1.1 = {
+		holding = church_holding
+		#First mention in Xth
+	}
+}
+3570 = {	#Pharsalos aka Farsala
+	culture = greek
+	religion = olympianism
+	holding = city_holding
+}
