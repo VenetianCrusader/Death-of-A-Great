@@ -1,0 +1,86 @@
+##d_epirus ###################################
+###c_nicopolis
+473 = {		#Arta
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3699 = {	#Sivista
+	holding = tribal_holding
+}
+3700 = {	#Angelokastron
+	holding = tribal_holding
+}
+3701 = {	#Vonitsa
+	holding = city_holding
+	#Founded during BYZ times
+}
+
+###c_epeiros
+3708 = {	#Ioannina
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3706 = {	#Konitsa
+	holding = tribal_holding
+	#1st mention in 1380
+}
+3707 = {	#Vella
+	holding = church_holding
+	#1st mention in 840
+}
+3709 = {	#Grava
+	holding = tribal_holding
+}
+
+###c_aetolia
+475 = {		#Hellas
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3697 = {	#Prousos
+	holding = tribal_holding
+}
+3698 = {	#Lidoriki
+	holding = church_holding
+	#Bishopric since the IXth
+}
+
+###c_metzovo
+3702 = {	#Metzovo
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3703 = {	# 3703 - Gardiki
+	holding = tribal_holding
+}
+3704 = {	# 3704 - Vrestenitsa
+	holding = tribal_holding
+}
+3705 = {	# 3705 - Agrafa
+	holding = city_holding
+}
+
+##d_cephalonia ###################################
+###c_cephalonia
+474 = {		#Cephalonia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3696 = {	#Zakynthos
+	holding = city_holding
+}
+
+###c_buthrotum
+472 = {		#Épeiros
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3710 = {	#Corfu
+	holding = city_holding
+}
