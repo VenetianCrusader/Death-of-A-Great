@@ -1,0 +1,88 @@
+##d_achaia ###################################
+###c_achaia
+476 = {		#Achaia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3801 = {	#Vostitsa AKA Aigio
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3737 = {	#Andravida
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3738 = {	#Kalavryta
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+	1066.1.1 = {
+		holding = church_holding
+		#Existed some time in the Middle Age (unsure when exactly)
+		#Set as church_holding to have all 3 holding types
+	}
+}
+
+###c_korinthos
+481 = {		#Korinthos
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3732 = {	#Nikli AKA Tegea
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3798 = {	#Argos
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3799 = {	#Damala AKA Troezen
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+
+###c_messenia
+3733 = {	#Karytaina
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3734 = {	#Arcadia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3800 = {	#Kalamata
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+477 = {		#Methone
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+
+###c_laconia
+3736 = {	#Mistra
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+478 = {		#Monemvasia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
+3735 = {	#Lacedaemonia
+	culture = greek
+	religion = olympianism
+	holding = castle_holding
+}
