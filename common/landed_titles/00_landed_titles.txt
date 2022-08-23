@@ -6522,7 +6522,7 @@ d_andecawi = {
 			color = { 14 90 0 }
 			color2 = { 255 255 255 }
 		
-		b_suindium = {
+		b_suindinum = {
 			color = { 14 90 0 }
 			color2 = { 255 255 255 }
 			province = 2270
