@@ -6699,6 +6699,7 @@ d_carnuti = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
 			province = 2342
+				}
 			}
 		}
 	}
