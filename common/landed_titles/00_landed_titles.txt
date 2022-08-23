@@ -6471,7 +6471,6 @@ d_lexsowi = {
 		}
 	}
 d_andecawi = {
-
 		color = { 52 102 36 }
 		color2 = { 255 255 255 }
 	c_andecawi = {
@@ -6507,6 +6506,7 @@ d_andecawi = {
 	c_saumur = {
 			color = { 14 129 88 }
 			color2 = { 255 255 255 }
+			
 		b_saumur = {
 			color = { 14 129 88 }
 			color2 = { 255 255 255 }
@@ -6519,41 +6519,41 @@ d_andecawi = {
 				}
 			}
 	c_suindinum = {
-			color = { 14 90 0 }
+			color = { 14 90 1 }
 			color2 = { 255 255 255 }
 		
 		b_suindinum = {
-			color = { 14 90 0 }
+			color = { 14 90 1 }
 			color2 = { 255 255 255 }
 			province = 2270
 		}
 		b_noviodunum = {
-			color = { 14 90 0 }
+			color = { 14 90 1 }
 			color2 = { 255 255 255 }
 			province = 2272
 		}
 		b_aulerci_cenomani = {
-			color = { 14 90 0 }
+			color = { 14 90 1 }
 			color2 = { 255 255 255 }
 			province = 2271
 				}
 			}
 	c_moulay = {
-			color = { 14 150 0 }
+			color = { 14 150 1 }
 			color2 = { 255 255 255 }
 			
 		b_moulay = {
-			color = { 14 150 0 }
+			color = { 14 150 1 }
 			color2 = { 255 255 255 }
 			province = 2266
 		}
 		b_sabolium = {
-			color = { 14 150 0 }
+			color = { 14 150 1 }
 			color2 = { 255 255 255 }
 			province = 2264
 		}
 		b_laval = {
-			color = { 14 150 0 }
+			color = { 14 150 1 }
 			color2 = { 255 255 255 }
 			province = 2265
 			}
