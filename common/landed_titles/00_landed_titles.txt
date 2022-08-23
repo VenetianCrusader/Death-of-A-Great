@@ -6690,12 +6690,12 @@ d_carnuti = {
 			color2 = { 255 255 255 }
 			province = 2341
 		}
-		b_vidudunum
+		b_vidudunum = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
 			province = 2337
 		}
-		b_sequaniabriga
+		b_sequaniabriga = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
 			province = 2342
