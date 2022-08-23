@@ -6556,6 +6556,7 @@ d_andecawi = {
 			color = { 14 150 1 }
 			color2 = { 255 255 255 }
 			province = 2265
+				}
 			}
 		}
 	}
