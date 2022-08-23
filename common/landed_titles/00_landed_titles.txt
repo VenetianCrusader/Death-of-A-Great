@@ -6453,20 +6453,109 @@ d_lexsowi = {
 			color2 = { 255 255 255 }
 			province = 2322
 		}
-		b_pertika
+		b_pertika = {
 			color = { 30 147 94 }
 			color2 = { 255 255 255 }
 			province = 2324
 		}
-		b_suadudunum
+		b_suadudunum = {
 			color = { 30 147 94 }
 			color2 = { 255 255 255 }
 			province = 2323
 		}
-		b_montfort
+		b_montfort = {
 			color = { 30 147 94 }
 			color2 = { 255 255 255 }
 			province = 2332
+			}
+		}
+	}
+d_andecawi = {
+
+		color = { 52 102 36 }
+		color2 = { 255 255 255 }
+	c_andecawi = {
+			color = { 31 102 68 }
+			color2 = { 255 255 255 }
+		
+		b_andecawi = {
+			color = { 31 102 68 }
+			color2 = { 255 255 255 }
+			province =  2267
+		}
+		b_fixa = {
+			color = { 31 102 68 }
+			color2 = { 255 255 255 }
+			province =  2268
+		}
+		b_beldunum = {
+			color = { 31 102 68 }
+			color2 = { 255 255 255 }
+			province =  2263
+		}
+		b_noviodunum = {
+			color = { 31 102 68 }
+			color2 = { 255 255 255 }
+			province =  2269
+		}
+		b_craon = {
+			color = { 31 102 68 }
+			color2 = { 255 255 255 }
+			province =  2262
+				}
+			}
+	c_saumur = {
+			color = { 14 129 88 }
+			color2 = { 255 255 255 }
+		b_saumur = {
+			color = { 14 129 88 }
+			color2 = { 255 255 255 }
+			province = 2261
+		}
+		b_melay = {
+			color = { 14 129 88 }
+			color2 = { 255 255 255 }
+			province = 2260
+				}
+			}
+	c_suindinum = {
+			color = { 14 90 0 }
+			color2 = { 255 255 255 }
+		
+		b_suindium = {
+			color = { 14 90 0 }
+			color2 = { 255 255 255 }
+			province = 2270
+		}
+		b_noviodunum = {
+			color = { 14 90 0 }
+			color2 = { 255 255 255 }
+			province = 2272
+		}
+		b_aulerci_cenomani = {
+			color = { 14 90 0 }
+			color2 = { 255 255 255 }
+			province = 2271
+				}
+			}
+	c_moulay = {
+			color = { 14 150 0 }
+			color2 = { 255 255 255 }
+			
+		b_moulay
+			color = { 14 150 0 }
+			color2 = { 255 255 255 }
+			province = 2266
+		}
+		b_sabolium
+			color = { 14 150 0 }
+			color2 = { 255 255 255 }
+			province = 2264
+		}
+		b_laval
+			color = { 14 150 0 }
+			color2 = { 255 255 255 }
+			province = 2265
 			}
 		}
 	}
