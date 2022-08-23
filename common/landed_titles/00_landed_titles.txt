@@ -6463,10 +6463,10 @@ d_lexsowi = {
 			color2 = { 255 255 255 }
 			province = 2323
 		}
-		b_mantes
+		b_montfort
 			color = { 30 147 94 }
 			color2 = { 255 255 255 }
-			province = 2181
+			province = 2332
 			}
 		}
 	}
