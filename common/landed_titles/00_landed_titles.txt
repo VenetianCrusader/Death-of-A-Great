@@ -6214,7 +6214,7 @@ e_gaul = {
 	color2 = { 255 255 255 }
 
 k_aremorica = {
-	color = { 195 255 0 }
+	color = { 84 255 85 }
 	color2 = { 255 255 255 }
 	
 d_weneti = {
@@ -6289,12 +6289,12 @@ d_weneti = {
 			color2 = { 255 255 255 }
 			province = 2162
 		}
-		b_treguier
+		b_treguier = {
 			color = { 32 190 57 }
 			color2 = { 255 255 255 }
 			province = 2161
 		}
-		b_saint_malo
+		b_saint_malo = {
 			color = { 32 190 57 }
 			color2 = { 255 255 255 }
 			province = 2164
@@ -6324,15 +6324,149 @@ d_weneti = {
 			color = { 30 84 57 }
 			color2 = { 255 255 255 }
 		
-		b_bresta
+		b_bresta = {
 			color = { 30 84 57 }
 			color2 = { 255 255 255 }
 			province = 2157
 		}
-		b_leon
+		b_leon = {
 			color = { 30 84 57 }
 			color2 = { 255 255 255 }
 			province = 2158
+			}
+		}
+	}
+d_lexsowi = {
+		color = { 11 177 85 }
+		color2 = { 255 255 255 }
+	c_noviomagnus = {
+			color = { 51 129 85 }
+			color2 = { 255 255 255 }
+		
+		b_noviomagnus = {
+			color = { 51 129 85 }
+			color2 = { 255 255 255 }
+			province = 2174
+		}
+		b_harcourt = {
+			color = { 51 129 85 }
+			color2 = { 255 255 255 }
+			province = 2175
+		}
+		b_sees = {
+			color = { 51 129 85 }
+			color2 = { 255 255 255 }
+			province = 2327
+				}
+			}
+	c_bodiocassi = {
+			color = { 7 179 38 }
+			color2 = { 255 255 255 }
+			
+		b_bodiocassi = {
+			color = { 7 179 38 }
+			color2 = { 255 255 255 }
+			province = 2170
+		}
+		b_catumagos = {
+			color = { 7 179 38 }
+			color2 = { 255 255 255 }
+			province = 2172
+		}
+		b_falaise = {
+			color = { 7 179 38 }
+			color2 = { 255 255 255 }
+			province = 2173
+				}
+			}
+	c_ingena = {
+			color = { 53 120 40 }
+			color2 = { 255 255 255 }
+		
+		b_ingena = {
+			color = { 53 120 40 }
+			color2 = { 255 255 255 }
+			province = 2167
+		}
+		b_coriovallo = {
+			color = { 53 120 40 }
+			color2 = { 255 255 255 }
+			province = 2169
+		}
+		b_wenelli = {
+			color = { 53 120 40 }
+			color2 = { 255 255 255 }
+			province = 2168
+				}
+			}
+	c_argentosmagos = {
+			color = { 94 147 135 }
+			color2 = { 255 255 255 }
+			
+		b_argentosmagos = {
+			color = { 94 147 135 }
+			color2 = { 255 255 255 }
+			province = 2326
+		}
+		b_alencon = {
+			color = { 94 147 135 }
+			color2 = { 255 255 255 }
+			province = 2325
+		}
+		b_mortain = {
+			color = { 94 147 135 }
+			color2 = { 255 255 255 }
+			province = 2171
+				}
+			}
+	c_mediolanum = {
+			color = { 50 247 94 }
+			color2 = { 255 255 255 }
+			
+		b_mediolanum = {
+			color = { 50 247 94 }
+			color2 = { 255 255 255 }
+			province = 2329
+		}
+		b_uernomagos = {
+			color = { 50 247 94 }
+			color2 = { 255 255 255 }
+			province = 2330
+		}
+		b_verneuil = {
+			color = { 50 247 94 }
+			color2 = { 255 255 255 }
+			province = 2328
+				}
+			}
+	c_duriocassum = {
+			color = { 30 147 94 }
+			color2 = { 255 255 255 }
+			
+		b_duriocassum = {
+			color = { 30 147 94 }
+			color2 = { 255 255 255 }
+			province = 2331
+		}
+		b_autricum = {
+			color = { 30 147 94 }
+			color2 = { 255 255 255 }
+			province = 2322
+		}
+		b_pertika
+			color = { 30 147 94 }
+			color2 = { 255 255 255 }
+			province = 2324
+		}
+		b_suadudunum
+			color = { 30 147 94 }
+			color2 = { 255 255 255 }
+			province = 2323
+		}
+		b_mantes
+			color = { 30 147 94 }
+			color2 = { 255 255 255 }
+			province = 2181
 			}
 		}
 	}
