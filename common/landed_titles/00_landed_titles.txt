@@ -6441,8 +6441,7 @@ d_lexsowi = {
 			}
 	c_duriocassum = {
 			color = { 30 147 94 }
-			color2 = { 255 255 255 }
-			
+			color2 = { 255 255 255 }	
 		b_duriocassum = {
 			color = { 30 147 94 }
 			color2 = { 255 255 255 }
@@ -6473,7 +6472,6 @@ d_lexsowi = {
 d_andecawi = {
 		color = { 52 102 36 }
 		color2 = { 255 255 255 }
-		
 	c_andecawi = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
@@ -6481,27 +6479,27 @@ d_andecawi = {
 		b_andecawi = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
-			province =  2267
+			province = 2267
 		}
 		b_fixa = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
-			province =  2268
+			province = 2268
 		}
 		b_beldunum = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
-			province =  2263
+			province = 2263
 		}
-		b_noviodunum = {
+		b_ardus = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
-			province =  2269
+			province = 2269
 		}
 		b_craon = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
-			province =  2262
+			province = 2262
 				}
 			}
 	c_saumur = {
@@ -6528,7 +6526,7 @@ d_andecawi = {
 			color2 = { 255 255 255 }
 			province = 2270
 		}
-		b_noviodunum = {
+		b_brigadunum = {
 			color = { 14 90 1 }
 			color2 = { 255 255 255 }
 			province = 2272
