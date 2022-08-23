@@ -6473,6 +6473,7 @@ d_lexsowi = {
 d_andecawi = {
 		color = { 52 102 36 }
 		color2 = { 255 255 255 }
+		
 	c_andecawi = {
 			color = { 31 102 68 }
 			color2 = { 255 255 255 }
