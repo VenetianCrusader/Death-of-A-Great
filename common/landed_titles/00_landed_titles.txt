@@ -6669,7 +6669,7 @@ d_carnuti = {
 			color2 = { 255 255 255 }
 			province = 2463
 		}
-		b_coutenay = {
+		b_courtenay = {
 			color = { 85 193 114 }
 			color2 = { 255 255 255 }
 			province = 2340
