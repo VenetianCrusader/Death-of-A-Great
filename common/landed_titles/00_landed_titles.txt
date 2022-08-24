@@ -6558,149 +6558,57 @@ d_andecawi = {
 			}
 		}
 	}
-d_carnuti = {
-		color = { 14 87 64 }
-		color2 = { 255 255 255 }
-	c_cenabum = {
-			color = { 14 87 67 }
-			color2 = { 255 255 255 }
-		
-		b_cenabum = {
-			color = { 14 87 67 }
-			color2 = { 255 255 255 }
-			province = 2338
-		}
-		b_balgentiaco = {
-			color = { 14 87 67 }
-			color2 = { 255 255 255 }
-			province = 2320
-				}
-			}
-	c_avaricum = {
-			color = { 1 163 44 }
-			color2 = { 255 255 255 }
-		
-		b_avaricum = {
-			color = { 1 163 44 }
-			color2 = { 255 255 255 }
-			province = 2315
-		}
-		b_ambibedo = {
-			color = { 1 163 44 }
-			color2 = { 255 255 255 }
-			province = 2317
-		}
-		b_biturgidunum = {
-			color = { 1 163 44 }
-			color2 = { 255 255 255 }
-			province = 2314
-				}
-			}
-	c_lutetia = {
-			color = { 14 126 40 }
-			color2 = { 255 255 255 }
-			
-		b_lutetia = {
-			color = { 14 126 40 }
-			color2 = { 255 255 255 }
-			province = 2333
-		}
-		b_lutetiabriua = {
-			color = { 14 126 40 }
-			color2 = { 255 255 255 }
-			province = 2334
-		}
-		b_logan = {
-			color = { 14 126 40 }
-			color2 = { 255 255 255 }
-			province = 2336
-		}
-		b_briga = {
-			color = { 14 126 40 }
-			color2 = { 255 255 255 }
-			province = 2335
-				}
-			}
-	c_ritudunum = {
-			color = { 60 116 63 }
-			color2 = { 255 255 255 }
-			
-		b_ritudunum = {
-			color = { 60 116 63 }
-			color2 = { 255 255 255 }
-			province = 2319
-		}
-		b_contres = {
-			color = { 60 116 63 }
-			color2 = { 255 255 255 }
-			province = 2318
-		}
-		b_romorantin = {
-			color = { 60 116 63 }
-			color2 = { 255 255 255 }
-			province = 2316
-				}
-			}
-	c_vindocinum = {
-			color = { 1 128 78 }
-			color2 = { 255 255 255 }
+}
+
+k_cisalpine_gaul = {
+	color = { 28 118 26 }
+	color2 = { 255 255 255 }
 	
-		b_vindocinum = {
-			color = { 1 128 78 }
+d_taurini
+		color = { 8 83 48 }
+		color2 = { 255 255 255 }
+
+	c_taurini = {
+			color = { 30 145 20 }
 			color2 = { 255 255 255 }
-			province = 2283
-		}
-		b_castrodunum = {
-			color = { 1 128 78 }
+
+		b_taurini = {
+			color = { 30 145 20 }
 			color2 = { 255 255 255 }
-			province = 2321
-		}
-		b_turonorum = {
-			color = { 1 128 78 }
+			province = 2041
+				}
+		b_karreum = {
+			color = { 30 145 20 }
 			color2 = { 255 255 255 }
-			province = 2273
+			province = 2045
+				}
+		b_longae = {
+			color = { 30 145 20 }
+			color2 = { 255 255 255 }
+			province = 8764
+
 				}
 			}
-	c_ligerdunum = {
-			color = { 85 193 144 }
+	c_ast = {
+			color = { 80 127 5 }
 			color2 = { 255 255 255 }
-			
-		b_ligerdunum = {
-			color = { 85 193 144 }
+
+		b_ast = {
+			color = { 80 127 5 }
 			color2 = { 255 255 255 }
-			province = 2463
-		}
-		b_courtenay = {
-			color = { 85 193 114 }
-			color2 = { 255 255 255 }
-			province = 2340
-		}
-		b_brigadunum = {
-			color = { 85 193 114 }
-			color2 = { 255 255 255 }
-			province = 2339
-				}
+			province = 2469
 			}
-	c_vidudunum = {
-			color = { 43 140 58 }
+		b_alba = {
+			color = { 80 127 5 }
 			color2 = { 255 255 255 }
-		
-		b_vidudunum = {
-			color = { 43 140 58 }
+			province = 2467
+			}
+		b_carystum = {
+			color = { 80 127 5 }
 			color2 = { 255 255 255 }
-			province = 2337
-		}
-		b_uxellodunum = {
-			color = { 43 140 58 }
-			color2 = { 255 255 255 }
-			province = 2341
-		}
-		b_sequaniabriga
-			color = { 43 140 58 }
-			color2 = { 255 255 255 }
-			province = 2342
+			province = 2468
 				}
 			}
 		}
 	}
-	
+}
