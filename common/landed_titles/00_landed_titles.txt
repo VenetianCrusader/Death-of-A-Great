@@ -6684,15 +6684,15 @@ d_carnuti = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
 
-		b_uxellodunum = {
-			color = { 43 140 58 }
-			color2 = { 255 255 255 }
-			province = 2341
-		}
 		b_vidudunum = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
 			province = 2337
+		}
+		b_uxellodunum = {
+			color = { 43 140 58 }
+			color2 = { 255 255 255 }
+			province = 2341
 		}
 		b_sequaniabriga = {
 			color = { 43 140 58 }
