@@ -6564,7 +6564,7 @@ d_carnuti = {
 	c_cenabum = {
 			color = { 14 87 67 }
 			color2 = { 255 255 255 }
-
+		
 		b_cenabum = {
 			color = { 14 87 67 }
 			color2 = { 255 255 255 }
@@ -6579,17 +6579,18 @@ d_carnuti = {
 	c_avaricum = {
 			color = { 1 163 44 }
 			color2 = { 255 255 255 }
-
+		
 		b_avaricum = {
 			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 			province = 2315
+		}
 		b_ambibedo = {
 			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 			province = 2317
 		}
-		b_biturigdunum = {
+		b_biturgidunum = {
 			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 			province = 2314
@@ -6598,7 +6599,7 @@ d_carnuti = {
 	c_lutetia = {
 			color = { 14 126 40 }
 			color2 = { 255 255 255 }
-
+			
 		b_lutetia = {
 			color = { 14 126 40 }
 			color2 = { 255 255 255 }
@@ -6623,7 +6624,7 @@ d_carnuti = {
 	c_ritudunum = {
 			color = { 60 116 63 }
 			color2 = { 255 255 255 }
-
+			
 		b_ritudunum = {
 			color = { 60 116 63 }
 			color2 = { 255 255 255 }
@@ -6643,7 +6644,7 @@ d_carnuti = {
 	c_vindocinum = {
 			color = { 1 128 78 }
 			color2 = { 255 255 255 }
-
+	
 		b_vindocinum = {
 			color = { 1 128 78 }
 			color2 = { 255 255 255 }
@@ -6661,11 +6662,11 @@ d_carnuti = {
 				}
 			}
 	c_ligerdunum = {
-			color = { 85 193 114 }
+			color = { 85 193 144 }
 			color2 = { 255 255 255 }
-
+			
 		b_ligerdunum = {
-			color = { 85 193 114 }
+			color = { 85 193 144 }
 			color2 = { 255 255 255 }
 			province = 2463
 		}
@@ -6683,7 +6684,7 @@ d_carnuti = {
 	c_vidudunum = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
-
+		
 		b_vidudunum = {
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
@@ -6694,11 +6695,12 @@ d_carnuti = {
 			color2 = { 255 255 255 }
 			province = 2341
 		}
-		b_sequaniabriga = {
+		b_sequaniabriga
 			color = { 43 140 58 }
 			color2 = { 255 255 255 }
 			province = 2342
+				}
 			}
 		}
 	}
-}
+	
