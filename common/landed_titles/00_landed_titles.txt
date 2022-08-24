@@ -6639,24 +6639,24 @@ d_carnuti = {
 			province = 2316
 				}
 			}
-	c_ligerdunum = {
-			color = { 85 193 114 }
+	c_vindocinum = {
+			color = { 1 128 78 }
 			color2 = { 255 255 255 }
 
-		b_ligerdunum = {
-			color = { 85 193 114 }
+		b_vindocinum = {
+			color = { 1 128 78 }
 			color2 = { 255 255 255 }
-			province = 2463
+			province = 2283
 		}
-		b_coutenay = {
-			color = { 85 193 114 }
+		b_castrodunum = {
+			color = { 1 128 78 }
 			color2 = { 255 255 255 }
-			province = 2340
+			province = 2321
 		}
-		b_brigadunum = {
-			color = { 85 193 114 }
+		b_turonorum = {
+			color = { 1 128 78 }
 			color2 = { 255 255 255 }
-			province = 2339
+			province = 2273
 				}
 			}
 	c_vidudunum = {
