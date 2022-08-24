@@ -6679,6 +6679,26 @@ d_carnuti = {
 			province = 2339
 				}
 			}
+	c_vidudunum = {
+			color = { 43 140 58 }
+			color2 = { 255 255 255 }
+
+		b_uxellodunum = {
+			color = { 43 140 58 }
+			color2 = { 255 255 255 }
+			province = 2341
+		}
+		b_vidudunum = {
+			color = { 43 140 58 }
+			color2 = { 255 255 255 }
+			province = 2337
+		}
+		b_sequaniabriga = {
+			color = { 43 140 58 }
+			color2 = { 255 255 255 }
+			province = 2342
+				}
+			}
 		}
 	}
 }
