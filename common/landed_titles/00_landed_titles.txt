@@ -6576,7 +6576,7 @@ d_carnuti = {
 			province = 2320
 				}
 			}
-c_avaricum = {
+	c_avaricum = {
 			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 		b_avaricum = {
@@ -6594,24 +6594,29 @@ c_avaricum = {
 			province = 2314
 				}
 			}
-	c_ritudunum = {
-			color = { 60 116 63 }
+	c_lutetia = {
+			color = { 14 126 40 }
 			color2 = { 255 255 255 }
 
-		b_ritudunum = {
-			color = { 60 116 63 }
+		b_lutetia = {
+			color = { 14 126 40 }
 			color2 = { 255 255 255 }
-			province = 2319
+			province = 2333
 		}
-		b_contres = {
-			color = { 60 116 63 }
+		b_lutetiabriua = {
+			color = { 14 126 40 }
 			color2 = { 255 255 255 }
-			province = 2318
+			province = 2334
 		}
-		b_romorantin = {
-			color = { 60 116 63 }
+		b_logan = {
+			color = { 14 126 40 }
 			color2 = { 255 255 255 }
-			province = 2316
+			province = 2336
+		}
+		b_briga = {
+			color = { 14 126 40 }
+			color2 = { 255 255 255 }
+			province = 2335
 				}
 			}
 	c_vindocinum = {
