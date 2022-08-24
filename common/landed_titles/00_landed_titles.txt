@@ -6562,22 +6562,22 @@ d_carnuti = {
 		color = { 14 87 64 }
 		color2 = { 255 255 255 }
 	c_cenabum = {
-			color = { 14 87 64 }
+			color = { 14 87 67 }
 			color2 = { 255 255 255 }
 		
 		b_cenabum = {
-			color = { 14 87 64 }
+			color = { 14 87 67 }
 			color2 = { 255 255 255 }
 			province = 2338
 		}
 		b_balgentiaco = {
-			color = { 14 87 64 }
+			color = { 14 87 67 }
 			color2 = { 255 255 255 }
 			province = 2320
 				}
 			}
 	c_avaricum = {
-			color = { 0 163 44 }
+			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 			
 		b_avaricum = {
@@ -6586,12 +6586,12 @@ d_carnuti = {
 			province = 2315
 		}
 		b_ambibedo = {
-			color = { 0 163 44 }
+			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 			province = 2317
 		}
 		b_biturigdunum = {
-			color = { 0 163 44 }
+			color = { 1 163 44 }
 			color2 = { 255 255 255 }
 			province = 2314
 				}
