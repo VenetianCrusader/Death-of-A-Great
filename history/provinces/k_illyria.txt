@@ -745,7 +745,7 @@
 503 = {		#Hum / b_plav
 	holding = none
 	#1050.1.1 = {
-	#	religion = bogomilist
+	#	religion = meduaric
 	#}
 	#1200.1.1 = { religion = medauric }
 }
