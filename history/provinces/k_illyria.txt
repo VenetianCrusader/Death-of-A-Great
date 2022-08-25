@@ -4,7 +4,7 @@
 465 = {		#Zadar
 	culture = greek
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	1066.1.1 = {
 		culture = croatian
 		religion = medauric
@@ -17,11 +17,11 @@
 	}
 }
 3545 = {	#Nin
-	holding = city_holding
+	holding = tribal_holding
 	#Settled in the beginning of the VIIth, 1st Croatian royal town
 }
 3547 = {	#Biograd (na Moru)
-	holding = church_holding
+	holding = tribal_holding
 	#church built in VIth, basilica based off of it in IXth
 }
 3546 = {	#Obrovac
@@ -33,18 +33,18 @@
 3548 = {	#Knin
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3549 = {	#Bribir
-	holding = city_holding
+	holding = tribal_holding
 	#Built & settled by the romans, then constantly inhabitted
 }
 3550 = {	#Šibenik
 	holding = none
 	1066.1.1 = {
-		holding = church_holding
+		holding = tribal_holding
 		#1st mentionned under its name in 1066, couldn't pass that coincidence !
-		#Set as church_holding so we have all 3 types in the county
+		#Set as tribal_holding so we have all 3 types in the county
 	}
 }
 
@@ -52,21 +52,21 @@
 3551 = {	#Sinj / c_sinjcroat
 	culture = greek
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	1066.1.1 = {
 		culture = greek
 		religion = medauric
 	}
 }
 467 = {		#Split
-	holding = city_holding
+	holding = tribal_holding
 	#Veeeeery old settlement
 }
 3552 = {	#Solin
-	holding = church_holding
+	holding = tribal_holding
 	#Old city
-	#Set as church_holding to have all 3 holding types
-	#Out of the 3, seems the most appropriate for church_holding, as it's tied with apostles, monasteries and whatnot
+	#Set as tribal_holding to have all 3 holding types
+	#Out of the 3, seems the most appropriate for tribal_holding, as it's tied with apostles, monasteries and whatnot
 }
 
 ##d_croatia ###################################
@@ -74,13 +74,13 @@
 464 = {		#Senj
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3540 = {	#Brinje
 	holding = none
 }
 2523 = {	#Rijeka
-	holding = city_holding
+	holding = tribal_holding
 	#old city since roman times
 }
 
@@ -88,13 +88,13 @@
 3543 = {	#Kaseg
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3542 = {	#Bag
 	holding = none
 }
 3544 = {	#Udbina
-	holding = city_holding
+	holding = tribal_holding
 }
 3541 = {	#Drežnik
 	holding = none
@@ -104,14 +104,14 @@
 2521 = {	#Cherso / Cres
 	culture = greek
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	1066.1.1 = {
 		culture = croatian
 		religion = medauric
 	}
 }
 459 = {		#Krk / Veglia
-	holding = city_holding
+	holding = tribal_holding
 	#Pretty old city
 }
 
@@ -119,7 +119,7 @@
 3539 = {	#Modruš
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3537 = {	#Okic
 	holding = none
@@ -137,14 +137,14 @@
 461 = {		#Zagreb
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3533 = {	#Cazma
 	holding = none
 	1066.1.1 = {
-		holding = church_holding
+		holding = tribal_holding
 		#Mentionned for the 1st time in 1094, so likely built before
-		#Set as church_holding as it was held by a bishop then
+		#Set as tribal_holding as it was held by a bishop then
 	}
 }
 3534 = {	#Samobor
@@ -152,14 +152,14 @@
 	#1242
 }
 3535 = {	#Sisak
-	holding = city_holding
+	holding = tribal_holding
 }
 
 ###c_zagorje
 458 = {		#Istria / Krapina
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 460 = {		#Varadzin / Garestin
 	holding = none
@@ -181,7 +181,7 @@
 3529 = {	#Požega
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3528 = {	#Kutina
 	holding = none
@@ -195,10 +195,10 @@
 3610 = {	#Vakovo
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3609 = {	#Osijek
-	holding = city_holding
+	holding = tribal_holding
 	#1st mention in 1196
 	#Set as city in 1000 nonetheless to have some holdings pre-built
 }
@@ -212,7 +212,7 @@
 3527 = {	#Visoki
 	culture = bosnian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 504 = {		#Prozor
 	holding = none
@@ -226,7 +226,7 @@
 	#Built in 1349
 }
 3526 = {	#Travnik
-	holding = city_holding
+	holding = tribal_holding
 	#Already inhabited and used in Roman times
 }
 
@@ -234,7 +234,7 @@
 3507 = {	#Jajce
 	culture = bosnian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3504 = {	#Kljuc na Sani / b_kljucnasani
 	holding = none
@@ -243,7 +243,7 @@
 	holding = none
 }
 3506 = {	#Kotor Varos / b_kotorvaros
-	holding = church_holding
+	holding = tribal_holding
 	#There was a basilica in roman times already
 }
 3508 = {	#Sokol
@@ -255,7 +255,7 @@
 3567 = {	#Vhrbosna
 	culture = bosnian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3564 = {	#Olovo
 	holding = none
@@ -265,7 +265,7 @@
 	holding = none
 }
 3566 = {	#Srebrenica
-	holding = city_holding
+	holding = tribal_holding
 	#Roman settlement
 }
 3568 = {	#Rogatica
@@ -276,7 +276,7 @@
 3522 = {	#Bihac
 	culture = bosnian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 }
 3521 = {	#Krupa
 	holding = none
@@ -291,7 +291,7 @@
 3519 = {	#Vodicevo
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	950.1.1 = {
 		culture = bosnian
 		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
@@ -300,7 +300,7 @@
 3518 = {	#Dubica
 	holding = none
 	930.1.1 = {
-		holding = city_holding
+		holding = tribal_holding
 	}
 }
 
@@ -308,14 +308,14 @@
 3516 = {	#Vrbaški Grad / b_banjaluka
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	950.1.1 = {
 		culture = bosnian
 		#Dating somewhat arbitrary, but basically the proto-form existed for about a generation before the eleventh century.
 	}
 }
 3515 = {	#Gradiška
-	holding = city_holding
+	holding = tribal_holding
 	#First mentionned in 1330, but there was a roman settlement there
 }
 3517 = {	#Glaž
@@ -327,7 +327,7 @@
 	#culture = croatian
 	culture = serbian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	870.1.1 = {
 		religion = medauric
 		#Serbs convert in 870
@@ -356,7 +356,7 @@
 	#culture = croatian
 	culture = serbian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	870.1.1 = {
 		religion = medauric
 		#Serbs convert in 870
@@ -368,7 +368,7 @@
 	}
 }
 3509 = {	#Bijeljina
-	holding = city_holding
+	holding = tribal_holding
 	#Some settlements built around around VIIth-XIIth
 }
 3511 = {	#Zvornik
@@ -384,7 +384,7 @@
 	#religion = medauric
 	culture = serbian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	870.1.1 = {
 		religion = medauric
 		#Serbs convert in 870
@@ -395,14 +395,14 @@
 	#First mention in XIIth century
 }
 3562 = {	#Drijeva
-	holding = city_holding
+	holding = tribal_holding
 	#Medieval marketplace
 }
 3563 = {	#Kljuc
 	holding = none
 }
 3558 = {	#Mostar
-	holding = city_holding
+	holding = tribal_holding
 	#Used since roman times
 }
 
@@ -410,7 +410,7 @@
 3560 = {	#Gacko
 	culture = serbian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	870.1.1 = {
 		religion = medauric
 		#Serbs convert in 870
@@ -429,22 +429,22 @@
 3501 = {	#Hlivno
 	culture = bosnian
 	religion = medauric
-	holding =  castle_holding
+	holding =  tribal_holding
 
 }
 3500 = {	#Glamoc
-	holding = church_holding
+	holding = tribal_holding
 	#Since roman times
 	#Basilicas and ties to dioceses and parishes
 }
 3502 = {	#Duvno AKA Tomislavgrad
-	holding = city_holding
+	holding = tribal_holding
 	#Ancient important place
 }
 3503 = {	#Imotski
 	holding = none
 	880.1.1 = {
-		holding = castle_holding
+		holding = tribal_holding
 		#1st mention in Xth century, fortress 1st mentionned in IXth
 	}
 }
@@ -453,7 +453,7 @@
 3555 = {	#Mokro
 	culture = croatian
 	religion = medauric
-	holding = castle_holding
+	holding = tribal_holding
 	870.1.1 = {
 		religion = medauric
 		#Serbs convert in 870
@@ -468,7 +468,7 @@
 	holding = none
 }
 3556 = {	#Hvar
-	holding = city_holding
+	holding = tribal_holding
 }
 
 ##d_ragusa ###################################
@@ -476,7 +476,7 @@
 468 = {		#Ragusa
 	culture = serbian
 	religion = medauric	
-	holding = castle_holding
+	holding = tribal_holding
 	870.1.1 = {
 		religion = medauric
 		#Serbs convert in 870
@@ -489,5 +489,317 @@
 	}
 }
 3569 = {	#Ston
-	holding = city_holding
+	holding = tribal_holding
+}
+
+###c_arbanon
+3720 = {	#Krujë
+	culture = greek
+	religion = medauric
+	holding = tribal_holding
+}
+3718 = {	#Mat
+	holding = none
+}
+3719 = {	#Lezhë AKA Lezha
+	holding = tribal_holding
+}
+3721 = {	#Hiskampis AKA Elbasan
+	holding = none
+	#Destroyed by bulgarians, then unsettled until ottomans arrival
+}
+
+###c_debar
+3724 = {	#Debar
+	culture = greek
+	religion = medauric
+	holding = tribal_holding
+}
+3723 = {	#Peshkopi
+	holding = tribal_holding
+}
+3722 = {	#Kukes
+	holding = none
+}
+
+###c_antipatreia / Albanian Toskeria
+3713 = {	#Antipatreia
+	culture = greek
+	religion = medauric
+	holding = tribal_holding
+}
+3714 = {	#Skrapar
+	holding = tribal_holding
+}
+3715 = {	#Argyrokastron
+	holding = tribal_holding
+}
+3716 = {	#Klisura / Këlcyrë
+	holding = none
+	#Some mention in 1272
+}
+3520 = {	#Blagajgrad
+	holding = none
+}
+
+###c_avlonas
+3711 = {	#Avlonas
+	culture = greek
+	religion = medauric
+	holding = tribal_holding
+}
+3712 = {	#Himara
+	holding = tribal_holding
+}
+
+#k_serbia
+##
+#Serbs convert from paganism to medauricy in ~870
+##
+##d_rashka ###################################
+###c_rashka
+502 = {		#Rashka / b_novotrgoviste
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+}
+3592 = {	#Budlimlje
+	holding = none
+}
+3588 = {	#Žica
+	holding = none
+	#XIIIth century
+}
+3587 = {	#Gradac
+	holding = none
+}
+
+###c_zlatibor
+3591 = {	#Sjenica
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+	#1st mention in 1253
+}
+3589 = {	#Arilje
+	holding = none
+	#1219
+}
+3590 = {	#Rujno
+	holding = none
+	#XVIth century ?
+}
+
+###c_sumadija
+3598 = {	#Kruševac
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+}
+3599 = {	#Koznik
+	holding = none
+	#1st mention in XIVth century
+}
+3600 = {	#Prokuplje
+	holding = tribal_holding
+	#1st mention of the city in XIVth
+	#However, area inhabited since old times already
+}
+
+###c_podrinje
+3583 = {	# Hotca
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+}
+3585 = {	#Brežnica
+	holding = none
+}
+3581 = {	#Višegrad
+	holding = tribal_holding
+	#culture = avar
+	#religion = tengri_pagan
+	#890.1.1 = { religion = catholic }
+	#950.1.1 = { culture = hungarian }
+}
+3582 = {	#Goražde
+	holding = none
+	1066.1.1 = {
+		holding = tribal_holding
+		#Potentially important during the middle age, not sure when exactly
+		#Set as tribal_holding so we have all 3 holding types
+	}
+}
+
+###c_durmitor
+3584 = {	#Prijepolje
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+	#Settled in 1234
+}
+3586 = {	#Brskovo
+	holding = none
+	#1st mention in XIIIth century
+}
+
+###c_hvosno
+3596 = {	#Priština
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+}
+3597 = {	#Prizren
+	holding = tribal_holding
+	#Important city, already from roman times
+}
+3595 = {	#Pec
+	holding = tribal_holding
+	#Set as tribal_holding to have all 3 holding types
+}
+3594 = {	#Zvecan
+	holding = none
+	#1st mention around 1090
+	1090.1.1 = {
+		holding = tribal_holding
+	}
+}
+3593 = {	#Podujevo
+	holding = none
+}
+
+##d_macva ###################################
+###c_macva
+3604 = {	#Macva
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+}
+3605 = {	#Debrc
+	holding = none
+	1066.1.1 = {
+		holding = tribal_holding
+		#Roman ruins over there, not sure how big the initial settlement was
+		#Also unsure how it "evolved" and if it was a proper city before XIIIth century)
+		#Set as city in 1066 to give the place some settlements
+	}
+}
+3606 = {	#Krupanj
+	holding = none
+	#First mention in 1417
+}
+3607 = {	#Užice
+	holding = tribal_holding
+	#Occupied by slavs even before 867
+}
+
+###c_beograd
+505 = {		#Belgrade / b_beograd
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	1066.1.1 = {
+		buildings = {
+			military_camps_02
+			barracks_01
+		}
+	}
+}
+3601 = {	#Smederevo
+	holding = none
+	#Built in the XVth
+}
+3602 = {	#Rudnik
+	holding = none
+}
+3603 = {	#Kragujevac
+	holding = tribal_holding
+	#Supposed to have been settled by the time the slavs came in
+}
+
+##d_duklja ###################################
+###c_duklja
+469 = {		#Zeta / b_ribnicapodgorica / Ribnica / Podgorica
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+}
+503 = {		#Hum / b_plav
+	holding = none
+	#1050.1.1 = {
+	#	religion = bogomilist
+	#}
+	#1200.1.1 = { religion = medauric }
+}
+3578 = {	#Drivast
+	holding = tribal_holding
+}
+3579 = {	#Danj
+	holding = none
+	1066.1.1 = {
+		holding = tribal_holding
+	}
+}
+3580 = {	#Skadar AKA Shköder
+	holding = tribal_holding
+	#Inhabitted since Antiquity
+}
+3577 = {	#Moraca
+	holding = none
+}
+
+###c_pomorje
+3575 = {	#Bar / Antivari
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+}
+3576 = {	#Ulcinj
+	holding = tribal_holding
+	#Already used long before CK timeframe
+}
+3574 = {	#Kotor / b_cattaro
+	holding = tribal_holding
+	#Old settlement
+	#Set as tribal_holding to have all 3 holding types
+}
+
+###c_travunia
+3572 = {	#Trebinje
+	culture = serbian
+	religion = medauric
+	holding = tribal_holding
+	870.1.1 = {
+		religion = medauric
+	}
+}
+3571 = {	#Onogošt
+	holding = tribal_holding
+	#Existed already before the Xth century
+}
+3573 = {	#Risan
+	holding = tribal_holding
+	#Very old settlement
+	#Set as tribal_holding to have all 3 holding types
 }
