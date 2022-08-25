@@ -6702,10 +6702,6 @@ d_carnuti = {
 		}
 	}
 }
-			}
-		}
-	}
-}
 
 k_cisalpine_gaul = {
 	color = { 28 118 26 }
