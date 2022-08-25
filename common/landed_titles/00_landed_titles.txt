@@ -6674,7 +6674,7 @@ d_carnuti = {
 			color2 = { 255 255 255 }
 			province = 2340
 		}
-		b_brigadunum = {
+		b_beberdunum = {
 			color = { 85 193 114 }
 			color2 = { 255 255 255 }
 			province = 2339
