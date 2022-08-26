@@ -6650,7 +6650,7 @@ d_taurini = {
 				}
 			}
 		}
-d_lombardia = {
+d_insubri = {
 		color = { 47 152 86 }
 		color2 = { 255 255 255 }
 			
@@ -6719,119 +6719,109 @@ d_lombardia = {
 			province = 2478
 				}
 			}
-	c_trent = {
+	c_trento = {
 			color = { 1 109 77 }
 			color2 = { 255 255 255 }
 
 		b_trento = {
-					province = 2499
 			color = { 1 109 77 }
 			color2 = { 255 255 255 }
+			province = 2499
 		}
-		b_bolzano = {
-					province = 2498
+		b_isarci = {
 			color = { 1 109 77 }
 			color2 = { 255 255 255 }
+			province = 2498
 		}
-		b_val_camonica = {
-					province = 2495
+		b_camunni = {
 			color = { 1 109 77 }
 			color2 = { 255 255 255 }
+			province = 2495
 		}
-		b_tirano = {
-					province = 8761
+		b_adda = {
 			color = { 1 109 77 }
 			color2 = { 255 255 255 }
+			province = 8761
 				}
 			}
 
-	c_pavia = {
-			color = { 200 155 255 }
+	c_ticinum = {
+			color = { 39 135 77 }
 			color2 = { 255 255 255 }
 
-		b_pavia = {
-					province = 2475
-
-			color = { 200 155 255 }
+		b_ticinum = {
+			color = { 39 135 77 }
 			color2 = { 255 255 255 }
+			province = 2475
 		}
-		b_lodi = {
-					province = 2476
-
-			color = { 200 155 255 }
+		b_laus = {
+			color = { 39 135 77 }
 			color2 = { 255 255 255 }
+			province = 2476
 				}
-		b_vigevano = {
-					province = 2474
-
-			color = { 200 155 255 }
+		b_dervo = {
+			color = { 39 135 77 }
 			color2 = { 255 255 255 }
+			province = 2474
 				}
 			}
 	c_cremona = {
-			color = { 220 160 210 }
+			color = { 31 255 49 }
 			color2 = { 255 255 255 }
 
 		b_cremona = {
-					province = 2491
-
-			color = { 220 160 210 }
+			color = { 31 255 49 }
 			color2 = { 255 255 255 }
+			province = 2491
 		}
-		b_roncaglia = {
-					province = 2489
-
-			color = { 220 160 210 }
+		b_anamari = {
+			color = { 31 255 49 }
 			color2 = { 255 255 255 }
+			province = 2489
 		}
 		b_crema = {
-					province = 2492
-
-			color = { 220 160 210 }
+			color = { 31 255 49 }
 			color2 = { 255 255 255 }
+			province = 2492
 				}
 			}
 
 	c_parma = {
-			color = { 255 160 195 }
+			color = { 29 160 76 }
 			color2 = { 255 255 255 }
 
 
 		b_parma = {
-					province = 2532
-
-			color = { 255 160 195 }
+			color = { 29 160 76 }
 			color2 = { 255 255 255 }
+			province = 2532
 		}
-		b_florentiola = {
-					province = 2490
-
-			color = { 255 160 195 }
+		b_ambibiua = {
+			color = { 29 160 76 }
 			color2 = { 255 255 255 }
+			province = 2490
 		}
-		b_piacenza = {
-					province = 2488
-
-			color = { 255 160 195 }
+		b_ananes = {
+			color = { 29 160 76 }
 			color2 = { 255 255 255 }
+			province = 2488
 				}
 			}
-	c_tortona = {
-			color = { 170 105 195 }
+	c_dertona = {
+			color = { 29 180 31 }
 			color2 = { 255 255 255 }
 
-		b_tortona = {
-					province = 2483
-			color = { 170 105 195 }
+		b_dertona = {
+			color = { 29 180 31 }
 			color2 = { 255 255 255 }
+			province = 2483
 		}
-		b_voghera = {
-					province = 2487
-			color = { 170 105 195 }
+		b_iria = {
+			color = { 29 180 31 }
 			color2 = { 255 255 255 }
+			province = 2487
 				}
 			}
 		}
 	}
 }
-#####NOTE TO SELF RESEARCH TOWN NAMES BEFORE NEW DUCHY#####
