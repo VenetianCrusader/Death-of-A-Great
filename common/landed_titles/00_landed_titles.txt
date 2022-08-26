@@ -116,8 +116,15 @@ e_hellenic_empire = {
 		color =  { 199 95 114 }
 		color2 = { 255 255 255 }
 		
-		capital = c_sparta
-		
+  	   c_sparta = {
+			color =  { 13 147 34 }
+			color2 = { 255 255 255 }
+		  b_sparta = {
+				color =  { 13 147 34 }
+				color2 = { 255 255 255 }
+			province = 3735 # the province id defined in map_data
+			}
+		}		
 	  c_mistra = {
 			color =  { 156 73 2 }
 			color2 = { 255 255 255 }
@@ -127,16 +134,6 @@ e_hellenic_empire = {
 			province = 3736
 			} 
 		}
-      c_sparta = {
-			color =  { 13 147 34 }
-			color2 = { 255 255 255 }
-		  b_sparta = {
-				color =  { 13 147 34 }
-				color2 = { 255 255 255 }
-			province = 3735 # the province id defined in map_data
-			}
-		}
-		
          c_monemvasia = {
 			color =  { 56 83 279 }
 			color2 = { 255 255 255 }
