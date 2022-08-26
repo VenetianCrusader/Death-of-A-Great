@@ -115,6 +115,9 @@ e_hellenic_empire = {
   d_sparta = { # Euboea
 		color =  { 199 95 114 }
 		color2 = { 255 255 255 }
+		
+		capital = c_sparta
+		
 	  c_mistra = {
 			color =  { 156 73 2 }
 			color2 = { 255 255 255 }
