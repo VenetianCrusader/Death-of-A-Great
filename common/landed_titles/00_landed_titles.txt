@@ -6826,5 +6826,125 @@ d_insubri = {
 				}
 			}
 		}
+d_woconti = {
+		color = { 29 102 31 }
+		color2 = { 255 255 255 }
+		
+	c_massalia = {
+			color = { 0 137 30 }
+			color2 = { 255 255 255 }
+			
+		b_masallia = {
+			color = { 0 137 30 }
+			color2 = { 255 255 255 }
+			province = 2018
+		}
+		b_olbia = {
+			color = { 0 137 30 }
+			color2 = { 255 255 255 }
+			province = 2019
+		}
+		b_marumagu = {
+			color = { 0 137 30 }
+			color2 = { 255 255 255 }
+			province = 2024
+		}
+		b_ducelia = {
+			color = { 0 137 30 }
+			color2 = { 255 255 255 }
+			province = 2025
+		}
+		b_slayedunum = {
+			color = { 0 137 30 }
+			color2 = { 255 255 255 }
+			province = 2023
+				}
+			}
+	c_arelati = {
+			color = { 30 189 107 }
+			color2 = { 255 255 255 }
+
+		b_arelati = {
+			color = { 30 189 107 }
+			color2 = { 255 255 255 }
+			province = 2017
+		}
+		b_arausio = {
+			color = { 30 189 107 }
+			color2 = { 255 255 255 }
+			province = 2062
+		}
+		b_auenion = {
+			color = { 30 189 107 }
+			color2 = { 255 255 255 }
+			province = 2059
+		}
+		b_vocontiorum = {
+			color = { 30 189 107 }
+			color2 = { 255 255 255 }
+			province = 2067
+				}
+			}
+	c_nikaia = {
+			color = { 29 150 64 }
+			color2 = { 255 255 255 }
+
+		b_nikaia = {
+			color = { 29 150 64 }
+			color2 = { 255 255 255 }
+			province = 2021
+		}
+		b_marubrga = {
+			color = { 29 150 64 }
+			color2 = { 255 255 255 }
+			province = 2020
+		}
+		b_vasubidunum = {
+			color = { 29 150 64 }
+			color2 = { 255 255 255 }
+			province = 8720
+		}
+		b_durance = {
+			color = { 29 150 64 }
+			color2 = { 255 255 255 }
+			province = 8721
+		}
+		b_bodiontii = {
+			color = { 29 150 64 }
+			color2 = { 255 255 255 }
+			province = 2026
+				}
+			}
+	c_vulgientdunum = {
+			color = { 29 187 100 }
+			color2 = { 255 255 255 }
+			
+		b_vulgientdunum = {
+			color = { 29 187 100 }
+			color2 = { 255 255 255 }
+			province = 2060
+		}
+		b_dubibriga = {
+			color = { 29 187 100 }
+			color2 = { 255 255 255 }
+			province = 2061
+		}
+		b_embrodunum = {
+			color = { 29 187 100 }
+			color2 = { 255 255 255 }
+			province = 2027
+		}
+		b_tricorii = {
+			color = { 29 187 100 }
+			color2 = { 255 255 255 }
+			province = 2028
+		}
+		b_brigantium = {
+			color = { 29 187 100 }
+			color2 = { 255 255 255 }
+			province = 8718
+				}
+			}
+		}
 	}
 }
