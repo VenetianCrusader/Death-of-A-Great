@@ -7230,6 +7230,23 @@ d_sequania = {
 			color2 = { 255 255 255 }
 				}
 			}
+	c_aterbedo = {
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+
+		b_aterbedo = {
+					province = 2071
+
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+		}
+		b_cervesiadunum = {
+					province = 2457
+
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+				}
+			}
 		}
 
 d_transjurania = {
