@@ -7201,28 +7201,6 @@ d_sequania = {
 			color2 = { 255 255 255 }
 				}
 			}
-	c_aterbedo = {
-			color = { 54 152 61 }
-			color2 = { 255 255 255 }
-
-		b_aterbedo = {
-					province = 2071
-
-			color = { 54 152 61 }
-			color2 = { 255 255 255 }
-		}
-		b_cervesiadunum = {
-					province = 2457
-
-			color = { 54 152 61 }
-			color2 = { 255 255 255 }
-		b_argentoartuas = {
-					province = 2070
-
-			color = { 54 152 61 }
-			color2 = { 255 255 255 }
-				}
-			}
 	c_dubimagu = {
 			color = { 42 122 87 }
 			color2 = { 255 255 255 }
