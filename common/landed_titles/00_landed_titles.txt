@@ -7079,7 +7079,7 @@ d_allobrogis = {
 		}
 	}
 k_helveti
-	color = { 59 155 24 }
+	color = { 59 127 47 }
 	color2 = { 255 255 255 }
 	
 d_helveti = {
