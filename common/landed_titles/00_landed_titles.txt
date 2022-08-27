@@ -7078,4 +7078,244 @@ d_allobrogis = {
 			}
 		}
 	}
+k_helveti
+	color = { 59 155 24 }
+	color2 = { 255 255 255 }
+	
+d_helveti = {
+	color = { 43 173 106 }
+	color2 = { 255 255 255 }
+
+	c_tigurni = {
+			color = { 80 147 89 }
+			color2 = { 255 255 255 }
+
+		b_tigurni = {
+					province = 2051
+
+			color = { 80 147 89 }
+			color2 = { 255 255 255 }
+		}
+		b_cingetodunum = {
+					province = 2461
+
+			color = { 80 147 89 }
+			color2 = { 255 255 255 }
+		}
+		b_engelberg = {
+					province = 3107
+
+			color = { 80 147 89 }
+			color2 = { 255 255 255 }
+		}
+		b_basel = {
+					province = 2050
+
+			color = { 80 147 89 }
+			color2 = { 255 255 255 }
+				}
+			}
+	c_grisons = {
+			color = { 43 117 38 }
+			color2 = { 255 255 255 }
+
+		b_chur = {
+					province = 2055
+
+			color = { 443 117 38 }
+			color2 = { 255 255 255 }
+		}
+		b_farduzes = {
+					province = 2052
+
+			color = { 43 117 38 }
+			color2 = { 255 255 255 }
+		}
+		b_vares = {
+					province = 2789
+
+			color = { 43 117 38 }
+			color2 = { 255 255 255 }
+		}
+		b_werdenburg = {
+					province = 2788
+
+			color = { 43 117 38 }
+			color2 = { 255 255 255 }
+				}
+			}
+	c_sankt_gallen = {
+			color = { 230 205 205 }
+			color2 = { 255 255 255 }
+
+		b_sankt_gallen = {
+					province = 2053
+
+			color = { 230 205 205 }
+			color2 = { 255 255 255 }
+		}
+		b_konstanz = {
+					province = 2054
+
+			color = { 230 205 205 }
+			color2 = { 255 255 255 }
+				}
+			}
+		}
+d_sequania = {
+		color = { 6 118 73 }
+		color2 = { 255 255 255 }
+
+	c_vesontio = {
+			color = { 23 143 95 }
+			color2 = { 255 255 255 }
+
+		b_vesontio = {
+					province = 2076
+
+			color = { 23 143 95 }
+			color2 = { 255 255 255 }
+		}
+		b_vesulium = {
+					province = 2077
+
+			color = { 23 143 95 }
+			color2 = { 255 255 255 }
+		}
+		b_mandubiens = {
+					province = 2075
+
+			color = { 23 143 95 }
+			color2 = { 255 255 255 }
+		}
+		b_crixbriga = {
+					province = 2459
+
+			color = { 23 143 95 }
+			color2 = { 255 255 255 }
+		}
+		b_dexsdunum = {
+					province = 2383
+
+			color = { 23 143 95 }
+			color2 = { 255 255 255 }
+				}
+			}
+	c_aterbedo = {
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+
+		b_aterbedo = {
+					province = 2071
+
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+		}
+		b_cervesiadunum = {
+					province = 2457
+
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+		b_argentoartuas = {
+					province = 2070
+
+			color = { 54 152 61 }
+			color2 = { 255 255 255 }
+				}
+			}
+	c_dubimagu = {
+			color = { 42 122 87 }
+			color2 = { 255 255 255 }
+
+		b_dubimagu = {
+					province = 2458
+
+			color = { 42 122 87 }
+			color2 = { 255 255 255 }
+		}
+		b_quingey = {
+					province = 2191
+
+			color = { 42 122 87 }
+			color2 = { 255 255 255 }
+		}
+		b_lons_le_saunier = {
+					province = 2073
+
+			color = { 42 122 87 }
+			color2 = { 255 255 255 }
+		}
+		b_salins = {
+					province = 2072
+
+			color = { 42 122 87 }
+			color2 = { 255 255 255 }
+				}
+			}
+		}
+
+d_transjurania = {
+	color = { 101 143 42 }
+	color2 = { 255 255 255 }
+
+
+	c_bern = {
+			color = { 139 211 123 }
+			color2 = { 255 255 255 }
+
+		b_bern = {
+					province = 2046
+
+			color = { 139 211 123 }
+			color2 = { 255 255 255 }
+		}
+		b_lausanne = {
+					province = 2037
+
+			color = { 139 211 123 }
+			color2 = { 255 255 255 }
+		}
+		b_thun = {
+					province = 2047
+
+			color = { 139 211 123 }
+			color2 = { 255 255 255 }
+				}
+			}
+	c_aargau = {
+			color = { 50 200 78 }
+			color2 = { 255 255 255 }
+
+		b_biel = {
+					province = 2049
+
+			color = { 50 200 78 }
+			color2 = { 255 255 255 }
+		}
+		b_lucerne = {
+					province = 2048
+
+			color = { 50 200 78 }
+			color2 = { 255 255 255 }
+				}
+			}
+	c_neuchatel = {
+			color = { 30 177 59 }
+			color2 = { 255 255 255 }
+
+		b_neuchatel = {
+					province = 2460
+
+			color = { 30 177 59 }
+			color2 = { 255 255 255 }
+		}
+		b_pontarlier = {
+					province = 2074
+
+			color = { 30 177 59 }
+			color2 = { 255 255 255 }
+				}
+			}
+		}
+	}
 }
