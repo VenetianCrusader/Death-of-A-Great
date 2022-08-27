@@ -6943,5 +6943,139 @@ d_woconti = {
 				}
 			}
 		}
+d_allobrogis = {
+		color = { 0 157 62 }
+		color2 = { 255 255 255 }
+
+	c_solonion = {
+			color = { 34 100 69 }
+			color2 = { 255 255 255 }
+
+		b_solonion = {
+			color = { 34 100 69 }
+			color2 = { 255 255 255 }
+			province = 2033
+		}
+		b_cularo = {
+			color = { 34 100 69 }
+			color2 = { 255 255 255 }
+			province = 2030
+		}
+		b_caddosbriga = {
+			color = { 34 100 69 }
+			color2 = { 255 255 255 }
+			province = 2032
+		}
+		b_lexolanda = {
+			color = { 34 100 69 }
+			color2 = { 255 255 255 }
+			province = 2068
+				}
+			}
+	c_darantasia = {
+			color = { 102 164 84 }
+			color2 = { 255 255 255 }
+
+		b_darantasia = {
+			color = { 102 164 84 }
+			color2 = { 255 255 255 }
+			province = 2031
+		}
+		b_caddoslexo = {
+			color = { 102 164 84 }
+			color2 = { 255 255 255 }
+			province = 2029
+		}
+		b_lemencum = {
+			color = { 102 164 84 }
+			color2 = { 255 255 255 }
+			province = 2455
+		}
+		b_belliceusis = {
+			color = { 102 164 84 }
+			color2 = { 255 255 255 }
+			province = 2069
+				}
+			}
+	c_aosta = {
+			color = { 70 202 38 }
+			color2 = { 255 255 255 }
+				
+		b_aosta = {
+			color = { 70 202 38 }
+			color2 = { 255 255 255 }
+			province = 2039
+		}
+		b_octodurum = {
+			color = { 70 202 38 }
+			color2 = { 255 255 255 }
+			province = 2038
+				}
+			}
+	c_geneva = {
+			color = { 37 162 72 }
+			color2 = { 255 255 255 }
+
+		b_geneva = {
+			color = { 37 162 72 }
+			color2 = { 255 255 255 }
+			province = 2035
+		}
+		b_boutae = {
+			color = { 37 162 72 }
+			color2 = { 255 255 255 }
+			province = 2034
+		}
+		b_thonon = {
+			color = { 37 162 72 }
+			color2 = { 255 255 255 }
+			province = 2036
+		}
+		b_gabrobriga = {
+			color = { 37 162 72 }
+			color2 = { 255 255 255 }
+			province = 8719
+				}
+			}
+	c_lexodunum = {
+			color = { 67 127 24 }
+			color2 = { 255 255 255 }
+
+		b_lexodunum = {
+			color = { 67 127 24 }
+			color2 = { 255 255 255 }
+			province = 2040
+		}
+		b_loganlanu = {
+			color = { 67 127 24 }
+			color2 = { 255 255 255 }
+			province = 2042
+		}
+		b_salassidunum = {
+			color = { 67 127 24 }
+			color2 = { 255 255 255 }
+			province = 2456
+				}
+			}
+	c_valentia = {
+			color = { 19 126 40 }
+			color2 = { 255 255 255 }
+		b_valentia = {
+			color = { 19 126 40 }
+			color2 = { 255 255 255 }
+			province = 2064
+		}
+		b_orgrosbriga = {
+			color = { 19 126 40 }
+			color2 = { 255 255 255 }
+			province = 8717
+		}
+		b_marvos = {
+			color = { 19 126 40 }
+			color2 = { 255 255 255 }
+			province = 2066
+				}
+			}
+		}
 	}
 }
