@@ -6621,7 +6621,7 @@ d_taurini = {
 		b_victimuli = {
 			color = { 22 146 100 }
 			color2 = { 255 255 255 }
-			province = 2471
+			province = 2473
 		}
 		b_libici = {
 			color = { 22 146 100 }
