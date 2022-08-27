@@ -19,14 +19,20 @@
 3545 = {	#Nin
 	holding = tribal_holding
 	#Settled in the beginning of the VIIth, 1st Croatian royal town
+	culture = croatian
+	religion = medauric
 }
 3547 = {	#Biograd (na Moru)
 	holding = tribal_holding
 	#church built in VIth, basilica based off of it in IXth
+	culture = croatian
+	religion = medauric
 }
 3546 = {	#Obrovac
 	holding = none
 	#created in 1337 ?
+	culture = croatian
+	religion = medauric
 }
 
 ###c_knin
@@ -34,10 +40,13 @@
 	culture = croatian
 	religion = medauric
 	holding = tribal_holding
+	
 }
 3549 = {	#Bribir
 	holding = tribal_holding
 	#Built & settled by the romans, then constantly inhabitted
+	culture = croatian
+	religion = medauric
 }
 3550 = {	#Šibenik
 	holding = none
@@ -45,6 +54,8 @@
 		holding = tribal_holding
 		#1st mentionned under its name in 1066, couldn't pass that coincidence !
 		#Set as tribal_holding so we have all 3 types in the county
+		culture = croatian
+		religion = medauric
 	}
 }
 
@@ -61,12 +72,16 @@
 467 = {		#Split
 	holding = tribal_holding
 	#Veeeeery old settlement
+	culture = croatian
+	religion = medauric
 }
 3552 = {	#Solin
 	holding = tribal_holding
 	#Old city
 	#Set as tribal_holding to have all 3 holding types
 	#Out of the 3, seems the most appropriate for tribal_holding, as it's tied with apostles, monasteries and whatnot
+	culture = croatian
+	religion = medauric
 }
 
 ##d_croatia ###################################
