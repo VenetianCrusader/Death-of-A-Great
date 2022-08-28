@@ -1,0 +1,175 @@
+war_chariot = {
+	type = heavy_cavalry
+	
+	damage = 75
+	toughness = 20
+	pursuit = 35
+	screen = 10
+	
+	terrain_bonus = {
+		plains = { damage = 30 }
+		drylands = { damage = 30 }
+		hills = { damage = -10 }
+		mountains = { damage = -50 }
+		desert_mountains = { damage = -50 }
+		wetlands = { damage = -80 toughness = -15 pursuit = -20 }
+	}
+
+	counters = {
+    skirmishers = 1
+	}
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+	buy_cost = { gold = cataphract_recruitment_cost }
+	low_maintenance_cost = { gold = cataphract_low_maint_cost }
+	high_maintenance_cost = { gold = cataphract_high_maint_cost }
+	
+	stack = 50
+	ai_quality = { value = @cultural_maa_extra_ai_score }
+	icon = heavy_cavalry
+}
+
+peltast = {
+	type = skirmisher
+	
+	damage = 13
+	toughness = 12
+	pursuit = 18
+	screen = 10
+	
+terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		plains = { damage = 4 toughness = 6 }
+		hills = { damage = 4 toughness = 6 }
+	}
+
+
+	counters = {
+    skirmishers = 1
+	}
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+buy_cost = { gold = skirmisher_recruitment_cost }
+	low_maintenance_cost = { gold = skirmisher_low_maint_cost }
+	high_maintenance_cost = { gold = skirmisher_high_maint_cost }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
+
+sica = {
+	type = skirmisher
+	
+	damage = 40
+	toughness = 7
+	pursuit = 12
+	screen = 2
+	
+terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		plains = { damage = 4 toughness = 6 }
+		hills = { damage = 4 toughness = 6 }
+	}
+
+
+	counters = {
+    skirmishers = 1
+	}
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+buy_cost = { gold = skirmisher_recruitment_cost }
+	low_maintenance_cost = { gold = skirmisher_low_maint_cost }
+	high_maintenance_cost = { gold = skirmisher_high_maint_cost }
+	
+	mercenary_fallback = yes
+	holy_order_fallback = yes
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
+
+
+falx = {
+	type = spearmen
+	
+	damage = 24
+	toughness = 12
+	pursuit = 12
+	screen = 17
+	
+terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		plains = { damage = 4 toughness = 6 }
+		hills = { damage = 4 toughness = 6 }
+	}
+
+
+	counters = {
+    skirmishers = 1
+	}
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+buy_cost = { gold = skirmisher_recruitment_cost }
+	low_maintenance_cost = { gold = skirmisher_low_maint_cost }
+	high_maintenance_cost = { gold = skirmisher_high_maint_cost }
+	
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
+
+hoplite = {
+	type = spearmen
+	
+	damage = 30
+	toughness = 20
+	pursuit = 0
+	screen = 0
+	
+terrain_bonus = {
+		forest = { damage = 4 toughness = 6 }
+		plains = { damage = 4 toughness = 6 }
+		hills = { damage = 4 toughness = 6 }
+	}
+
+
+	counters = {
+    skirmishers = 1
+	}
+
+	winter_bonus = {
+		normal_winter = { damage = -15 toughness = -5 }
+		harsh_winter = { damage = -30 toughness = -10 }
+	}
+
+buy_cost = { gold = skirmisher_recruitment_cost }
+	low_maintenance_cost = { gold = skirmisher_low_maint_cost }
+	high_maintenance_cost = { gold = skirmisher_high_maint_cost }
+	
+	
+	stack = 100
+	ai_quality = { value = culture_ai_weight_skirmishers }
+	icon = skirmishers
+}
