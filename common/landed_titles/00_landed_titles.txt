@@ -7082,7 +7082,7 @@ k_helveti
 	color = { 59 127 47 }
 	color2 = { 255 255 255 }
 	
-d_helveti = {
+d_tigurni = {
 	color = { 43 173 106 }
 	color2 = { 255 255 255 }
 
@@ -7108,53 +7108,53 @@ d_helveti = {
 			color = { 80 147 89 }
 			color2 = { 255 255 255 }
 		}
-		b_basel = {
+		b_aterart = {
 					province = 2050
 
 			color = { 80 147 89 }
 			color2 = { 255 255 255 }
 				}
 			}
-	c_grisons = {
+	c_raetiadunum = {
 			color = { 43 117 38 }
 			color2 = { 255 255 255 }
 
-		b_chur = {
+		b_raetiadunum = {
 					province = 2055
 
 			color = { 443 117 38 }
 			color2 = { 255 255 255 }
 		}
-		b_farduzes = {
+		b_ambiargentos = {
 					province = 2052
 
 			color = { 43 117 38 }
 			color2 = { 255 255 255 }
 		}
-		b_vares = {
+		b_artbriga = {
 					province = 2789
 
 			color = { 43 117 38 }
 			color2 = { 255 255 255 }
 		}
-		b_werdenburg = {
+		b_aballobriga = {
 					province = 2788
 
 			color = { 43 117 38 }
 			color2 = { 255 255 255 }
 				}
 			}
-	c_sankt_gallen = {
+	c_caddosbedo = {
 			color = { 230 205 205 }
 			color2 = { 255 255 255 }
 
-		b_sankt_gallen = {
+		b_caddosbedo = {
 					province = 2053
 
 			color = { 230 205 205 }
 			color2 = { 255 255 255 }
 		}
-		b_konstanz = {
+		b_belcambos = {
 					province = 2054
 
 			color = { 230 205 205 }
@@ -7249,62 +7249,62 @@ d_sequania = {
 			}
 		}
 
-d_transjurania = {
+d_verbigeni = {
 	color = { 101 143 42 }
 	color2 = { 255 255 255 }
 
 
-	c_bern = {
+	c_brenodor = {
 			color = { 139 211 123 }
 			color2 = { 255 255 255 }
 
-		b_bern = {
+		b_brenodor = {
 					province = 2046
 
 			color = { 139 211 123 }
 			color2 = { 255 255 255 }
 		}
-		b_lausanne = {
+		b_lauodunon = {
 					province = 2037
 
 			color = { 139 211 123 }
 			color2 = { 255 255 255 }
 		}
-		b_thun = {
+		b_cantbriga = {
 					province = 2047
 
 			color = { 139 211 123 }
 			color2 = { 255 255 255 }
 				}
 			}
-	c_aargau = {
+	c_belenus = {
 			color = { 50 200 78 }
 			color2 = { 255 255 255 }
 
-		b_biel = {
+		b_belenus = {
 					province = 2049
 
 			color = { 50 200 78 }
 			color2 = { 255 255 255 }
 		}
-		b_lucerne = {
+		b_lautroambibedo = {
 					province = 2048
 
 			color = { 50 200 78 }
 			color2 = { 255 255 255 }
 				}
 			}
-	c_neuchatel = {
+	c_lautrobedo = {
 			color = { 30 177 59 }
 			color2 = { 255 255 255 }
 
-		b_neuchatel = {
+		b_lautrobedo = {
 					province = 2460
 
 			color = { 30 177 59 }
 			color2 = { 255 255 255 }
 		}
-		b_pontarlier = {
+		b_dorobedo = {
 					province = 2074
 
 			color = { 30 177 59 }
