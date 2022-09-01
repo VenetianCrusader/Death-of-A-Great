@@ -7254,11 +7254,11 @@ d_verbigeni = {
 	color2 = { 255 255 255 }
 
 
-	c_brenodor = {
+	c_brenodurum = {
 			color = { 139 211 123 }
 			color2 = { 255 255 255 }
 
-		b_brenodor = {
+		b_brenodurum = {
 					province = 2046
 
 			color = { 139 211 123 }
