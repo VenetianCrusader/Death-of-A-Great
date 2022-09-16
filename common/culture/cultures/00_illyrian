@@ -1,0 +1,28 @@
+illyrian = {
+	color = { 143 4 4 }
+	
+ethos = ethos_bellicose
+	heritage = heritage_illyrian
+	language = language_illyrian
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_tribe_unity
+		tradition_practiced_pirates
+    tradition_sica_warriors
+    tradition_hit_and_run
+	}
+	
+	name_list = name_list_illyrian
+
+	coa_gfx = { baltic_group_coa_gfx steppe_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+  
+	ethnicities = {
+		80 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		3 = caucasian_northern_brown_hair
+		2 = caucasian_northern_dark_hair
+	}
+}
