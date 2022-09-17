@@ -1,4 +1,75 @@
 dynasty_names = {
-		# Currently shared with Maghreb Arabic
-    "dynn_
+	
+    "dynn_Blikitid" 
+    "dynn_Ninid" 
+    "dynn_Pasadid" 
+    "dynn_Outinadid"  
+    "dynn_Annid"  
+    "dynn_Dasid"  
+    "dynn_Epikarid"  
+    "dynn_Messid"  
+    "dynn_Tourelid"  
+    "dynn_Tourranid"  
+    "dynn_Baranid"  
+    "dynn_Baridid"  
+    "dynn_Andinid"  
+    "dynn_Andid"  
+    "dynn_Plannid"  
+    "dynn_Batid"  
+    "dynn_Epikadid"  
+    "dynn_Longarid"  
+    "dynn_Monounid"  
+    "dynn_Skerbiaidid"  
+    "dynn_Timeid"  
+    "dynn_Aulouporid"  
+    "dynn_Aulouzonid"  
+    "dynn_Bithid"  
+    "dynn_Kelsinid"  
+    "dynn_Kelsid"  
+    "dynn_Kocaid"  
+    "dynn_Delid"  
+    "dynn_Dizaid"  
+    "dynn_Dolenid"  
+    "dynn_Eptaikenthid"  
+    "dynn_Mukatralid"  
+    "dynn_Moukatid"  
+    "dynn_Terid"  
+    "dynn_Tzitzid"  
+    "dynn_Beukid"  
+    "dynn_Platid"  
+    "dynn_Purtid"  
+    "dynn_Samekkid"  
+    "dynn_Annid"  
+    "dynn_Bizid"  
+    "dynn_Breukid"  
+    "dynn_Annesid"  
+    "dynn_Daiekid"  
+    "dynn_Dasantid"  
+    "dynn_Skenobarbid"  
+    "dynn_Implaied"  
+    "dynn_Lavid"  
+    "dynn_Massourid"  
+    "dynn_Baolid"  
+    "dynn_Oulkidid"  
+    "dynn_Temaid"  
+    "dynn_Baidarid" 
 	}
+	
+	male_names = {
+       Andinos Andios Anneses Annos Aplis Aploudos Aplos Apouros Baidaros Baizo Baizos Baolios Bardourios Bato Byoukos Byousas Bizo Bryoukos Karrios Daiekos Daitor Dasantos Dasios Dazomenos Dazos Epikaris Iettos Implaios Laidikalios Laidietis Laidos Labios Ledros Massurios Messios Messor Paio Panentios Panes Panto Pantos Plannios Plares Prorados Sarnos Skenobarbos Sestos Statanios Statikos Statos Souttis Temaios Tizios Tritonos Tritos Turelios Ulkidios Baranos Baridios Bendo Bepos Berzoulos
+       Karbanios Germanos Labianos Pinsos Pladomenos Verzaieos # Of Dalmatian origin
+       Anadros Bouzetios Ditos Loantios Pantadienos Plator Platourios Rufantius Sestenius Stennas Vendes 
+       Tourranios Tourrinios Touros # Used among the Japodes; of Liburnian origin
+       Andes Iaritos Montanos Parmanicos Sarios Seneka Silos Sinos 
+       Blaidaros Dasmenos Lensos Sassaios Skilos Sourko
+       Kralos Liros Passalos Likkaios 
+       Skenos
+   }
+   female_names = {
+       Andio Aplo Arbo Kallo Kato Kourbania Koursolabia Dasa Dasantilla Dasto Genthena Glabikida Iato Labinkia Likko Lossa Mabida Nebato Pantia Passia Platino Samountio Seio Sesto Stato Surio Soutta Tito Tritano Barro
+       Stataria Testo Tritto # Of Dalmatian origin
+       Deidmou Dennaia Ditoueio Stennato Tatonia Vandano # Used among the Japodes
+       Ammida Matera Maxa 
+       Mellito Nantia Nonntio Poia Sicou
+       Arsa 
+   }
