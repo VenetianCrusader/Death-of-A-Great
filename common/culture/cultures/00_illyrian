@@ -8,8 +8,8 @@ ethos = ethos_bellicose
 	traditions = {
 		tradition_tribe_unity
 		tradition_practiced_pirates
-    tradition_sica_warriors
-    tradition_hit_and_run
+    		tradition_sica_sword
+    		tradition_hit_and_run
 	}
 	
 	name_list = name_list_illyrian
